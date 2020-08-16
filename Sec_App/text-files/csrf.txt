@@ -1,0 +1,1 @@
+do csrf assessment launch csrf attack launch cross site request forgery assessment

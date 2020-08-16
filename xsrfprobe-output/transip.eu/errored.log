@@ -1,0 +1,8 @@
+(i) http://transip.eu -> No standard form "name".
+(i) http://transip.eu -> No standard form "name".
+(i) http://transip.eu -> No standard form "name".
+(i) http://transip.eu/order-vps/services/set-package/ -> ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+(i) http://transip.eu/vps/ -> No standard form "name".
+(i) http://transip.eu/order-vps/services/set-package/ -> ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+(i) http://transip.eu/vps/ -> 'NoneType' object has no attribute 'text'
+

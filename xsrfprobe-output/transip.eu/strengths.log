@@ -1,0 +1,11 @@
+[+] http://transip.eu -> No Persistent Session Cookies.
+[+] http://transip.eu -> Anti-CSRF token is not a string encoded value.
+[+] http://transip.eu -> No Persistent Session Cookies.
+[+] http://transip.eu -> No Persistent Cookies.
+[+] http://transip.eu -> High Entropy Anti-CSRF Tokens.
+[+] http://transip.eu -> No Persistent Session Cookies.
+[+] http://transip.eu -> Anti-CSRF token is not a string encoded value.
+[+] http://transip.eu/vps/ -> No Persistent Session Cookies.
+[+] http://transip.eu/vps/ -> No Persistent Cookies.
+[+] http://transip.eu/vps/ -> Anti-CSRF token is not a string encoded value.
+

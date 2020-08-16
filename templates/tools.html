@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SECURITY AUTOMATION</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.16/js/mdb.min.js"></script>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.16/css/mdb.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" href="/static/css/tools.css">
+  <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+</head>
+<!-- bg animation -->
+<div id="particles-js"></div> 
+<div class="count-particles"> <span class="js-count-particles">--</span> particles </div> 
+<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
+<script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
+<script type="text/javascript" src="/static/js/particles.js"></script>
+<body>
+<br><br><br><br><br><br>
+
+<div style="width: 100%;" id="top">
+	<div id="csrf">
+		<button type="button" class="btn  btn-rounded " id="tool"
+		onclick="location.href='{% url 'csrf_detection' %}'">CSRF ASSESMENT</button>
+
+		<button type="button" class="btn  btn-rounded " id="tool"
+		onclick="location.href='{% url 'dos' %}'">DOS ASSESMENT</button>
+	</div>
+	<div id="host">
+		<button type="button" class="btn  btn-rounded " id="tool"
+		onclick="location.href='{% url 'host_discovery' %}'">HOST DISCOVERY</button>
+	</div>
+</div>
+
+<div style="width: 100%;" id="bottom">
+
+	<div id="ps">
+		<button type="button" class="btn  btn-rounded " id="tool"
+		onclick="location.href='{% url 'port_scanning' %}'">PORT SCANNING</button>
+	</div>
+
+	<div id="sql">
+		<button type="button" class="btn  btn-rounded " id="tool">SQL INJECTION</button>
+	</div>
+
+</div>
+
+
+</body>
+</html>

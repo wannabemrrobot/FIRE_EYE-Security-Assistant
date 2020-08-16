@@ -1,0 +1,479 @@
+[!] https://www.veltechmultitech.org/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:11:49 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 09:48:54 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '20533', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:11:50 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 09:48:54 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '20533', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/vision-and-mission/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:11:52 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:29:34 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10923', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/vision-and-mission/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:11:52 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:29:34 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10923', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/about-college/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:11:55 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:23:19 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '27002', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/about-college/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:11:56 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:23:19 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '27002', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/about-management/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:11:59 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:11:22 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '19880', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/about-management/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:00 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:11:22 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '19880', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/origin-and-growth/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:01 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:29:45 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10925', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/origin-and-growth/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:03 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:29:45 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10925', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/rules-and-regulations/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:05 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:14:49 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '15369', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/rules-and-regulations/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:05 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:14:49 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '15369', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/admission/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:07 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 09:49:42 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '13415', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/admission/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:09 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 09:49:42 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '13415', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/bio-medical-engineering/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:12 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:00:34 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '32808', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/bio-medical-engineering/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:13 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:00:34 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '32808', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/civil-engineering/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:17 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:11:32 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '29018', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/civil-engineering/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:18 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:11:32 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '29018', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/computer-science-engineering/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:21 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:07:51 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '44928', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/computer-science-engineering/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:23 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:07:51 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '44928', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/information-technology/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:26 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:05:51 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '36817', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/information-technology/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:27 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:05:51 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '36817', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/electronics-communication-engineering/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:32 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:12:17 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Connection': 'close', 'Transfer-Encoding': 'chunked', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/electronics-communication-engineering/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:34 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:12:17 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Connection': 'close', 'Transfer-Encoding': 'chunked', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/electrical-and-electronics-engineering/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:38 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:14:18 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '50198', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/electrical-and-electronics-engineering/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:40 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:14:18 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '50198', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/mechanical-engineering/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:42 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 09:57:26 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '28994', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/mechanical-engineering/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:43 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 09:57:26 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '28994', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/m-e-computer-science-and-engineering/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:45 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:15:39 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '12058', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/m-e-computer-science-and-engineering/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:46 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:15:39 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '12058', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/m-tech-information-technology/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:48 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:15:45 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11491', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/m-tech-information-technology/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:49 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:15:45 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11491', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/embedded-system-technologies/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:51 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:15:50 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11402', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/embedded-system-technologies/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:52 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:15:50 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11402', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/very-large-scale-integration-design/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:54 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:15:54 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11518', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/very-large-scale-integration-design/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:54 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:15:54 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11518', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/committees/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:56 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:01 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10744', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/committees/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:12:57 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:01 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10744', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/science-and-humanities/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:00 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:04 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '27047', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/science-and-humanities/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:01 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:04 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '27047', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/academic-details/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:03 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:30:19 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '12657', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/academic-details/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:04 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:30:19 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '12657', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/academic-schedule/# -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:06 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:14 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10536', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/academic-schedule/# -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:07 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:14 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10536', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/press-room/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:09 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:18 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11650', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/press-room/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:10 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:18 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11650', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/awards-recognition/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:13 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:24 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '36168', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/awards-recognition/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:14 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:24 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '36168', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/projects-grants/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:16 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:33 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '12548', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/projects-grants/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:16 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:33 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '12548', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/patents/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:18 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:29:06 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '21715', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/patents/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:19 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 11:29:06 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '21715', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/outreach-and-recognition/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:21 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 09:50:36 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10424', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/outreach-and-recognition/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:23 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 09:50:36 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10424', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/innovation/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:25 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:47 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10285', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/innovation/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:26 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:47 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10285', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/proceedings/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:28 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:51 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10287', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/proceedings/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:29 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:51 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10287', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/mou/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:31 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:54 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '12102', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/mou/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:32 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:54 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '12102', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/events/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:34 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:58 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11643', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/events/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:35 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:16:58 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11643', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/students-club/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:37 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:02 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '19019', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/students-club/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:38 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:02 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '19019', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/sports/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:40 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:07 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10343', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/sports/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:41 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:07 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10343', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/professional-bodies/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:42 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:15 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11214', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/professional-bodies/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:43 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:15 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11214', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/entrepreneurship-development-unit/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:45 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:22 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '12041', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/entrepreneurship-development-unit/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:46 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:22 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '12041', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/higher-education-unit/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:48 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:26 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11962', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/higher-education-unit/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:49 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:26 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11962', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/ncc/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:51 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:31 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '13421', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/ncc/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:52 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:31 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '13421', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/nss/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:54 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:39 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '13542', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/nss/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:54 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:39 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '13542', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/youth-red-cross/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:56 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:26:36 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '14086', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/youth-red-cross/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:13:57 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:26:36 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '14086', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/library/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:00 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:46 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '37812', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/library/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:01 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:46 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '37812', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/examinations/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:03 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:53 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10362', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/examinations/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:04 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 13:17:53 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '10362', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/placement/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:06 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 12:11:30 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '20256', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/placement/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:07 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 12:11:30 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '20256', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] http://www.veltechmultitech.org/faculty/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:10 GMT', 'Server': 'Apache', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Set-Cookie': 'PHPSESSID=db31893737bb9ab6ce1f90421d34e43d; path=/', 'Content-Length': '1902', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] http://www.veltechmultitech.org/faculty/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:12 GMT', 'Server': 'Apache', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Set-Cookie': 'PHPSESSID=31778a09fda881bfb317a16dd096d4ae; path=/', 'Content-Length': '1902', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] http://www.veltechmultitech.org/faculty/ -> No Cookie Validation on Cross-Origin Requests.
+
+[i] Headers: {'Date': 'Thu, 12 Mar 2020 14:14:16 GMT', 'Server': 'Apache', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Set-Cookie': 'PHPSESSID=9a4c1f72b5c12be87a85c142525e6f6a; path=/', 'Content-Length': '1902', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] http://www.veltechmultitech.org/faculty/ -> Form Requested Without Anti-CSRF Token.
+
+[i] Form Requested: <form action="index.php" method="post">
+ <input id="username" name="idno" onclick="border: 1px solid #30a8da;" size="70" type="text" value="Enter Faculty Id"/>
+ <input id="password" name="password" onclick="border: 1px solid #30a8da;" size="70" type="password" value="Enter a password..."/>
+ <input align="middle" name="submit" type="submit" value="LOGIN"/>
+</form>
+
+[i] Request Query: {'idno': b'Enter Faculty Id', 'password': b'Enter a password...', 'submit': b'LOGIN'}
+
+
+[!] http://www.veltechmultitech.org/faculty/ -> POST-Based Request Forgery on Forms.
+
+[i] Form: <form action="index.php" method="post">
+ <input id="username" name="idno" onclick="border: 1px solid #30a8da;" size="70" type="text" value="Enter Faculty Id"/>
+ <input id="password" name="password" onclick="border: 1px solid #30a8da;" size="70" type="password" value="Enter a password..."/>
+ <input align="middle" name="submit" type="submit" value="LOGIN"/>
+</form>
+
+[i] POST Query: {'idno': b'Enter Faculty Id', 'password': b'Enter a password...', 'submit': b'LOGIN'}
+
+
+
+[!] https://www.veltechmultitech.org/careers/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:24 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:35:15 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11290', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/careers/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:25 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:35:15 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11290', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/contact-us/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:27 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:54:14 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11627', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+[!] https://www.veltechmultitech.org/contact-us/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 14:14:28 GMT', 'Server': 'Apache', 'Vary': 'User-Agent,Accept-Encoding', 'Last-Modified': 'Thu, 12 Mar 2020 10:54:14 GMT', 'Accept-Ranges': 'bytes', 'Content-Encoding': 'gzip', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 29 Oct 1923 20:30:00 GMT', 'Content-Length': '11627', 'Connection': 'close', 'Content-Type': 'text/html; charset=UTF-8'}
+
+
+

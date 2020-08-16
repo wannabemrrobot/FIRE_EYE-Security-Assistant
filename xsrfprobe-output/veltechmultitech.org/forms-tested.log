@@ -1,0 +1,47 @@
+(i) http://www.veltechmultitech.org/faculty/:
+
+<form action="index.php" method="post">
+ <input id="username" name="idno" onclick="border: 1px solid #30a8da;" size="70" type="text" value="Enter Faculty Id"/>
+ <input id="password" name="password" onclick="border: 1px solid #30a8da;" size="70" type="password" value="Enter a password..."/>
+ <input align="middle" name="submit" type="submit" value="LOGIN"/>
+</form>
+
+
+(i) https://www.veltechmultitech.org/contact-us/:
+
+<form action="/contact-us/#wpcf7-f7449-p87-o1" class="wpcf7-form" method="post" novalidate="novalidate">
+ <div style="display: none;">
+  <input name="_wpcf7" type="hidden" value="7449"/>
+  <input name="_wpcf7_version" type="hidden" value="5.1.4"/>
+  <input name="_wpcf7_locale" type="hidden" value="en_US"/>
+  <input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f7449-p87-o1"/>
+  <input name="_wpcf7_container_post" type="hidden" value="87"/>
+ </div>
+ <p>
+  <span class="wpcf7-form-control-wrap your-name">
+   <input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" name="your-name" placeholder="Name *" size="40" type="text" value=""/>
+  </span>
+ </p>
+ <p>
+  <span class="wpcf7-form-control-wrap your-email">
+   <input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" name="your-email" placeholder="Email *" size="40" type="email" value=""/>
+  </span>
+ </p>
+ <p>
+  <span class="wpcf7-form-control-wrap your-subject">
+   <input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" name="your-subject" placeholder="Subject *" size="40" type="text" value=""/>
+  </span>
+ </p>
+ <p>
+  <span class="wpcf7-form-control-wrap your-message">
+   <textarea aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" cols="40" name="your-message" placeholder="Message *" rows="10"></textarea>
+  </span>
+ </p>
+ <p>
+  <input class="wpcf7-form-control wpcf7-submit" type="submit" value="Submit"/>
+ </p>
+ <div class="wpcf7-response-output wpcf7-display-none">
+ </div>
+</form>
+
+

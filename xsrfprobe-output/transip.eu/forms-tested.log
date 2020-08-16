@@ -1,0 +1,870 @@
+(i) http://transip.eu:
+
+<form action="/order-domain/services/check/" aria-label="Check your preferred domain name" class="checker-form checker-form--instant js-checker-form checker-form--transparent-light checker-form--normal" data-disable-autofocus="1" data-submit-type="default" method="post">
+ <input name="selectedPackage" type="hidden" value=""/>
+ <input name="requiredTld" type="hidden" value=""/>
+ <div class="checker-form__normal">
+  <div class="checker-form__input-wrapper">
+   <input aria-label="Domain name" autocomplete="off" class="one-form-control checker-form__input js-search-input" name="search" placeholder="Check your preferred domain name" spellcheck="false" type="search" value=""/>
+  </div>
+  <div class="checker-form__actions">
+   <a class="checker-form__bulk-link checker-form__bulk-link--open js-bulk-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-v3 to-bulk" href="#" role="button">
+    <span aria-hidden="true">
+     Bulk
+    </span>
+    <span class="one-u-sr-only">
+     Check multiple domain names at once
+    </span>
+    <span aria-hidden="true" class="checker-form__bulk-link-icon">
+     <svg class="svg-pictogram svg-pictogram--close-correct" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M97.2 83.963L63.237 50 97.2 16.037c3.667-3.667 3.667-9.57 0-13.237s-9.57-3.667-13.237 0L50 36.763 16.037 2.8C12.37-.867 6.467-.867 2.8 2.8s-3.667 9.57 0 13.237L36.763 50 2.8 83.963c-3.667 3.667-3.667 9.57 0 13.237s9.57 3.667 13.237 0L50 63.237 83.963 97.2c3.667 3.667 9.57 3.667 13.237 0 3.64-3.667 3.64-9.596 0-13.237z">
+      </path>
+     </svg>
+    </span>
+   </a>
+   <button class="one-btn one-btn--order checker-form__submit js-submit-btn" type="submit">
+    <span aria-hidden="true" class="checker-form__submit-label-xs">
+     <svg class="svg-pictogram svg-pictogram--search" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M68.785 42.486q0-10.865-7.718-18.586t-18.59-7.72-18.58 7.72-7.726 18.586T23.9 61.072t18.58 7.718 18.59-7.72 7.72-18.59l-.003.006zm30.073 48.85q0 3.057-2.237 5.284t-5.277 2.24q-3.17 0-5.284-2.237l-20.14-20.08q-10.51 7.282-23.43 7.282-8.394 0-16.056-3.256T13.22 71.755 4.4 58.543t-3.255-16.06 3.255-16.06 8.813-13.214 13.21-8.814T42.48 1.14t16.065 3.256 13.213 8.813T80.57 26.42t3.256 16.06q0 12.924-7.28 23.43l20.138 20.145q2.17 2.17 2.17 5.285l.004-.007z">
+      </path>
+     </svg>
+    </span>
+    <span aria-hidden="true" class="checker-form__submit-label">
+     Check
+    </span>
+    <span class="one-u-sr-only">
+     Check
+    </span>
+   </button>
+  </div>
+ </div>
+ <div class="checker-form__bulk">
+  <div class="checker-form__textarea-wrapper">
+   <textarea aria-label="Enter multiple domain names at once" class="one-form-control checker-form__textarea js-search-textarea" data-max-rows="50" data-second-placeholder="Check up to 50 domain names including domain extension" data-second-placeholder-class="one-form-control checker-form__second-placeholder" data-second-placeholder-determine-height-class="checker-form__second-placeholder-determine-height" disabled="" name="search-bulk" placeholder="Check up to 50 domain names including domain extension" rows="4"></textarea>
+  </div>
+  <div class="checker-form__actions checker-form__actions--bulk">
+   <a class="checker-form__bulk-link checker-form__bulk-link--close js-bulk-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-v3 to-normal" href="#" role="button">
+    <span aria-hidden="true">
+     Bulk
+    </span>
+    <span class="one-u-sr-only">
+     Back to input for single domain name
+    </span>
+    <span aria-hidden="true" class="checker-form__bulk-link-icon">
+     <svg class="svg-pictogram svg-pictogram--close-correct" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M97.2 83.963L63.237 50 97.2 16.037c3.667-3.667 3.667-9.57 0-13.237s-9.57-3.667-13.237 0L50 36.763 16.037 2.8C12.37-.867 6.467-.867 2.8 2.8s-3.667 9.57 0 13.237L36.763 50 2.8 83.963c-3.667 3.667-3.667 9.57 0 13.237s9.57 3.667 13.237 0L50 63.237 83.963 97.2c3.667 3.667 9.57 3.667 13.237 0 3.64-3.667 3.64-9.596 0-13.237z">
+      </path>
+     </svg>
+    </span>
+   </a>
+   <button class="one-btn one-btn--order checker-form__submit checker-form__submit--bulk js-bulk-submit-btn" type="submit">
+    <span class="checker-form__submit-label-xs">
+     <svg class="svg-pictogram svg-pictogram--search" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M68.785 42.486q0-10.865-7.718-18.586t-18.59-7.72-18.58 7.72-7.726 18.586T23.9 61.072t18.58 7.718 18.59-7.72 7.72-18.59l-.003.006zm30.073 48.85q0 3.057-2.237 5.284t-5.277 2.24q-3.17 0-5.284-2.237l-20.14-20.08q-10.51 7.282-23.43 7.282-8.394 0-16.056-3.256T13.22 71.755 4.4 58.543t-3.255-16.06 3.255-16.06 8.813-13.214 13.21-8.814T42.48 1.14t16.065 3.256 13.213 8.813T80.57 26.42t3.256 16.06q0 12.924-7.28 23.43l20.138 20.145q2.17 2.17 2.17 5.285l.004-.007z">
+      </path>
+     </svg>
+    </span>
+    <span aria-hidden="true" class="checker-form__submit-label">
+     Check
+    </span>
+    <span class="one-u-sr-only">
+     Check
+    </span>
+   </button>
+  </div>
+ </div>
+ <div class="instant-results hidden js-instant-results">
+  <div class="instant-results__dropdown">
+   <ul class="instant-results__list js-instant-results__list">
+   </ul>
+   <div class="instant-results__loader js-instant-results__loader">
+    <img alt="" class="instant-results__loader-img js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+    Checking...
+   </div>
+   <div class="instant-results__none js-instant-results__none">
+    No popular extensions are available.
+   </div>
+   <div class="instant-results__promotion-limits js-promotion-limits hidden">
+    <p class="domain-promotions-explanation instant-results__promotion-limits-p">
+     * Promotion rate applies for the first year.
+    </p>
+   </div>
+   <a class="instant-results__all-link js-all-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-block-v3 check-all" href="/order-domain/check/">
+    Check all (Enter)
+   </a>
+  </div>
+ </div>
+ <div class="hidden">
+  <ul class="check-results">
+   <li class="check-result check-result--instant s-idle check-result--template">
+    <div class="responsive-domain responsive-domain--check-result">
+     <span class="responsive-domain__name">
+      %%domain%%
+     </span>
+     <span class="responsive-domain__lrm-mark">
+      ‎
+     </span>
+     <span class="responsive-domain__tld">
+      %%tld%%
+     </span>
+    </div>
+    %%whoisHtml%%
+    <div class="check-result__meta-wrapper">
+     %%priceHtml%%
+                %%actionHtml%%
+    </div>
+   </li>
+   <li class="check-result check-result-bundle check-result--instant s-idle check-result-bundle--template">
+    <div class="responsive-domain responsive-domain--check-result">
+     <span class="responsive-domain__name">
+      %%domain%%
+     </span>
+     <span class="responsive-domain__lrm-mark">
+      ‎
+     </span>
+     <span class="responsive-domain__tld">
+      %%tlds%%
+     </span>
+    </div>
+    <div class="check-result__meta-wrapper">
+     %%priceHtml%%
+                %%actionHtml%%
+    </div>
+   </li>
+   <li class="check-result-detail check-result-detail--template">
+    %%content%%
+   </li>
+  </ul>
+  <span class="check-result__price check-result__price--%%priceModifier%% check-result__price--template">
+   <span class="check-result__price-container">
+    <span class="one-u-font-bold">
+     %%priceDataFormatted.firstPeriodCosts%%
+     <sup class="check-result__promotion-star">
+      *
+     </sup>
+    </span>
+   </span>
+  </span>
+  <span class="check-result__price check-result__price--%%priceModifier%% check-result-bundle__price--template">
+   <span class="check-result__price-container">
+    <span class="one-u-font-bold">
+     %%priceDataFormatted.firstPeriodCosts%%
+     <sup class="check-result__promotion-star">
+      *
+     </sup>
+    </span>
+   </span>
+  </span>
+  <span class="check-result__price check-result__price-empty--template">
+  </span>
+  <div class="check-result__action check-result__action--choose check-result__action--choose--template js-result-action">
+   <button class="one-btn one-btn--success check-result__order-btn check-result__order-btn--chosen js-action-btn" tabindex="-1">
+    <svg class="svg-pictogram svg-pictogram--mark" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M98.185 29.46L40.408 87.447c-2.266 2.308-5.81 2.308-8.076 0L1.815 56.836a5.724 5.724 0 0 1 0-8.142l7.79-7.82c2.297-2.277 5.84-2.277 8.107 0L36.386 59.59 82.288 13.53c2.266-2.276 5.842-2.276 8.076 0l7.82 7.82c2.267 2.277 2.267 5.835 0 8.11z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Selected
+    </span>
+   </button>
+   <div class="check-result__order-btn-loader-wrapper">
+    <img alt="" class="check-result__order-btn-loader js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   </div>
+   <button class="one-btn one-btn--order check-result__order-btn check-result__order-btn--cart-add js-action-btn" tabindex="0">
+    <svg class="svg-pictogram svg-pictogram--cart-add" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M44.77 41.54a3.23 3.23 0 0 0 0 4.57L57 58.38c.04.03.1 0 .13.04a3.1 3.1 0 0 0 2.24.98h.03c.1 0 .18-.05.27-.06a3.07 3.07 0 0 0 1.67-.68c.13-.1.3-.06.43-.18l12.3-12.3a3.25 3.25 0 1 0-4.6-4.6l-6.97 7v-29.8a3.12 3.12 0 0 0-6.25 0v29.7l-6.9-6.9a3.23 3.23 0 0 0-4.58 0zm-1.02 42.84a6.25 6.25 0 1 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm31.25 0a6.25 6.25 0 0 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm25-53.13c0-.47-.12-.9-.3-1.3-.1-.25-.25-.4-.4-.6-.33-.4-.73-.78-1.23-1-.1-.02-.12-.13-.22-.16-.32-.1-.63-.1-.94-.08H68.78v6.25h24.3L82 71.87H40.63c-.2 0-.4.08-.58.1l-8.77-37.6H50v-6.24H29.82L24.87 6.88c.05-.2.13-.4.13-.63 0-1.55-1.15-2.8-2.63-3.03-.16-.04-.3-.08-.47-.1H3.13a3.12 3.12 0 0 0 0 6.25h16.23l15.5 66.48c.4 1.66 2.04 2.65 3.62 2.2.24-.07.33-.3.54-.43.48.3 1 .5 1.6.5H84.4c.16 0 .3-.05.46-.1 1.5-.23 2.64-1.47 2.64-3.02 0-.16-.06-.3-.1-.45L99.96 32c.03-.1-.05-.2-.04-.3.03-.16.1-.3.1-.45z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Choose
+    </span>
+   </button>
+  </div>
+  <div class="check-result__action check-result__action--choose check-result-bundle__action--choose--template js-result-action">
+   <button class="one-btn one-btn--success check-result__order-btn check-result__order-btn--chosen js-action-btn" tabindex="-1">
+    <svg class="svg-pictogram svg-pictogram--mark" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M98.185 29.46L40.408 87.447c-2.266 2.308-5.81 2.308-8.076 0L1.815 56.836a5.724 5.724 0 0 1 0-8.142l7.79-7.82c2.297-2.277 5.84-2.277 8.107 0L36.386 59.59 82.288 13.53c2.266-2.276 5.842-2.276 8.076 0l7.82 7.82c2.267 2.277 2.267 5.835 0 8.11z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Selected
+    </span>
+   </button>
+   <div class="check-result__order-btn-loader-wrapper">
+    <img alt="" class="check-result__order-btn-loader js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   </div>
+   <button class="one-btn one-btn--order check-result__order-btn check-result__order-btn--cart-add js-action-btn" tabindex="0">
+    <svg class="svg-pictogram svg-pictogram--cart-add" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M44.77 41.54a3.23 3.23 0 0 0 0 4.57L57 58.38c.04.03.1 0 .13.04a3.1 3.1 0 0 0 2.24.98h.03c.1 0 .18-.05.27-.06a3.07 3.07 0 0 0 1.67-.68c.13-.1.3-.06.43-.18l12.3-12.3a3.25 3.25 0 1 0-4.6-4.6l-6.97 7v-29.8a3.12 3.12 0 0 0-6.25 0v29.7l-6.9-6.9a3.23 3.23 0 0 0-4.58 0zm-1.02 42.84a6.25 6.25 0 1 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm31.25 0a6.25 6.25 0 0 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm25-53.13c0-.47-.12-.9-.3-1.3-.1-.25-.25-.4-.4-.6-.33-.4-.73-.78-1.23-1-.1-.02-.12-.13-.22-.16-.32-.1-.63-.1-.94-.08H68.78v6.25h24.3L82 71.87H40.63c-.2 0-.4.08-.58.1l-8.77-37.6H50v-6.24H29.82L24.87 6.88c.05-.2.13-.4.13-.63 0-1.55-1.15-2.8-2.63-3.03-.16-.04-.3-.08-.47-.1H3.13a3.12 3.12 0 0 0 0 6.25h16.23l15.5 66.48c.4 1.66 2.04 2.65 3.62 2.2.24-.07.33-.3.54-.43.48.3 1 .5 1.6.5H84.4c.16 0 .3-.05.46-.1 1.5-.23 2.64-1.47 2.64-3.02 0-.16-.06-.3-.1-.45L99.96 32c.03-.1-.05-.2-.04-.3.03-.16.1-.3.1-.45z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Choose
+    </span>
+   </button>
+  </div>
+ </div>
+</form>
+
+
+(i) http://transip.eu:
+
+<form action="/order-domain/services/update-domain-selection/" class="hidden js-update-selection-form" method="post">
+ <input name="action" type="hidden" value="post"/>
+ <input class="js-update-selection-form__domain" name="domain" type="hidden" value=""/>
+ <input class="js-update-selection-form__domain-action" name="domainAction" type="hidden" value=""/>
+ <input class="js-update-selection-form__search" name="search" type="hidden" value=""/>
+ <input name="service" type="hidden" value=""/>
+ <input name="returnData" type="hidden" value="redirect"/>
+ <input name="redirect" type="hidden" value="/cart/services/add-from-sub-cart/domain/"/>
+ <input name="_csrf_token" type="hidden" value="afefb2abe056f418c898e43ac05b3945"/>
+</form>
+
+(i) http://transip.eu:
+
+<form action="/services/cookie-consent/" class="js-generic-module" data-components="one-form-handler" method="POST">
+ <input name="tracking" type="hidden" value="true"/>
+ <input name="marketing" type="hidden" value="true"/>
+ <button class="one-btn one-btn--round one-btn--lg one-btn--primary one-btn--min-width" type="submit">
+  Accept all cookies
+ </button>
+</form>
+
+(i) http://transip.eu/:
+
+<form action="/order-domain/services/check/" aria-label="Check your preferred domain name" class="checker-form checker-form--instant js-checker-form checker-form--transparent-light checker-form--normal" data-disable-autofocus="1" data-submit-type="default" method="post">
+ <input name="selectedPackage" type="hidden" value=""/>
+ <input name="requiredTld" type="hidden" value=""/>
+ <div class="checker-form__normal">
+  <div class="checker-form__input-wrapper">
+   <input aria-label="Domain name" autocomplete="off" class="one-form-control checker-form__input js-search-input" name="search" placeholder="Check your preferred domain name" spellcheck="false" type="search" value=""/>
+  </div>
+  <div class="checker-form__actions">
+   <a class="checker-form__bulk-link checker-form__bulk-link--open js-bulk-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-v3 to-bulk" href="#" role="button">
+    <span aria-hidden="true">
+     Bulk
+    </span>
+    <span class="one-u-sr-only">
+     Check multiple domain names at once
+    </span>
+    <span aria-hidden="true" class="checker-form__bulk-link-icon">
+     <svg class="svg-pictogram svg-pictogram--close-correct" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M97.2 83.963L63.237 50 97.2 16.037c3.667-3.667 3.667-9.57 0-13.237s-9.57-3.667-13.237 0L50 36.763 16.037 2.8C12.37-.867 6.467-.867 2.8 2.8s-3.667 9.57 0 13.237L36.763 50 2.8 83.963c-3.667 3.667-3.667 9.57 0 13.237s9.57 3.667 13.237 0L50 63.237 83.963 97.2c3.667 3.667 9.57 3.667 13.237 0 3.64-3.667 3.64-9.596 0-13.237z">
+      </path>
+     </svg>
+    </span>
+   </a>
+   <button class="one-btn one-btn--order checker-form__submit js-submit-btn" type="submit">
+    <span aria-hidden="true" class="checker-form__submit-label-xs">
+     <svg class="svg-pictogram svg-pictogram--search" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M68.785 42.486q0-10.865-7.718-18.586t-18.59-7.72-18.58 7.72-7.726 18.586T23.9 61.072t18.58 7.718 18.59-7.72 7.72-18.59l-.003.006zm30.073 48.85q0 3.057-2.237 5.284t-5.277 2.24q-3.17 0-5.284-2.237l-20.14-20.08q-10.51 7.282-23.43 7.282-8.394 0-16.056-3.256T13.22 71.755 4.4 58.543t-3.255-16.06 3.255-16.06 8.813-13.214 13.21-8.814T42.48 1.14t16.065 3.256 13.213 8.813T80.57 26.42t3.256 16.06q0 12.924-7.28 23.43l20.138 20.145q2.17 2.17 2.17 5.285l.004-.007z">
+      </path>
+     </svg>
+    </span>
+    <span aria-hidden="true" class="checker-form__submit-label">
+     Check
+    </span>
+    <span class="one-u-sr-only">
+     Check
+    </span>
+   </button>
+  </div>
+ </div>
+ <div class="checker-form__bulk">
+  <div class="checker-form__textarea-wrapper">
+   <textarea aria-label="Enter multiple domain names at once" class="one-form-control checker-form__textarea js-search-textarea" data-max-rows="50" data-second-placeholder="Check up to 50 domain names including domain extension" data-second-placeholder-class="one-form-control checker-form__second-placeholder" data-second-placeholder-determine-height-class="checker-form__second-placeholder-determine-height" disabled="" name="search-bulk" placeholder="Check up to 50 domain names including domain extension" rows="4"></textarea>
+  </div>
+  <div class="checker-form__actions checker-form__actions--bulk">
+   <a class="checker-form__bulk-link checker-form__bulk-link--close js-bulk-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-v3 to-normal" href="#" role="button">
+    <span aria-hidden="true">
+     Bulk
+    </span>
+    <span class="one-u-sr-only">
+     Back to input for single domain name
+    </span>
+    <span aria-hidden="true" class="checker-form__bulk-link-icon">
+     <svg class="svg-pictogram svg-pictogram--close-correct" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M97.2 83.963L63.237 50 97.2 16.037c3.667-3.667 3.667-9.57 0-13.237s-9.57-3.667-13.237 0L50 36.763 16.037 2.8C12.37-.867 6.467-.867 2.8 2.8s-3.667 9.57 0 13.237L36.763 50 2.8 83.963c-3.667 3.667-3.667 9.57 0 13.237s9.57 3.667 13.237 0L50 63.237 83.963 97.2c3.667 3.667 9.57 3.667 13.237 0 3.64-3.667 3.64-9.596 0-13.237z">
+      </path>
+     </svg>
+    </span>
+   </a>
+   <button class="one-btn one-btn--order checker-form__submit checker-form__submit--bulk js-bulk-submit-btn" type="submit">
+    <span class="checker-form__submit-label-xs">
+     <svg class="svg-pictogram svg-pictogram--search" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M68.785 42.486q0-10.865-7.718-18.586t-18.59-7.72-18.58 7.72-7.726 18.586T23.9 61.072t18.58 7.718 18.59-7.72 7.72-18.59l-.003.006zm30.073 48.85q0 3.057-2.237 5.284t-5.277 2.24q-3.17 0-5.284-2.237l-20.14-20.08q-10.51 7.282-23.43 7.282-8.394 0-16.056-3.256T13.22 71.755 4.4 58.543t-3.255-16.06 3.255-16.06 8.813-13.214 13.21-8.814T42.48 1.14t16.065 3.256 13.213 8.813T80.57 26.42t3.256 16.06q0 12.924-7.28 23.43l20.138 20.145q2.17 2.17 2.17 5.285l.004-.007z">
+      </path>
+     </svg>
+    </span>
+    <span aria-hidden="true" class="checker-form__submit-label">
+     Check
+    </span>
+    <span class="one-u-sr-only">
+     Check
+    </span>
+   </button>
+  </div>
+ </div>
+ <div class="instant-results hidden js-instant-results">
+  <div class="instant-results__dropdown">
+   <ul class="instant-results__list js-instant-results__list">
+   </ul>
+   <div class="instant-results__loader js-instant-results__loader">
+    <img alt="" class="instant-results__loader-img js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+    Checking...
+   </div>
+   <div class="instant-results__none js-instant-results__none">
+    No popular extensions are available.
+   </div>
+   <div class="instant-results__promotion-limits js-promotion-limits hidden">
+    <p class="domain-promotions-explanation instant-results__promotion-limits-p">
+     * Promotion rate applies for the first year.
+    </p>
+   </div>
+   <a class="instant-results__all-link js-all-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-block-v3 check-all" href="/order-domain/check/">
+    Check all (Enter)
+   </a>
+  </div>
+ </div>
+ <div class="hidden">
+  <ul class="check-results">
+   <li class="check-result check-result--instant s-idle check-result--template">
+    <div class="responsive-domain responsive-domain--check-result">
+     <span class="responsive-domain__name">
+      %%domain%%
+     </span>
+     <span class="responsive-domain__lrm-mark">
+      ‎
+     </span>
+     <span class="responsive-domain__tld">
+      %%tld%%
+     </span>
+    </div>
+    %%whoisHtml%%
+    <div class="check-result__meta-wrapper">
+     %%priceHtml%%
+                %%actionHtml%%
+    </div>
+   </li>
+   <li class="check-result check-result-bundle check-result--instant s-idle check-result-bundle--template">
+    <div class="responsive-domain responsive-domain--check-result">
+     <span class="responsive-domain__name">
+      %%domain%%
+     </span>
+     <span class="responsive-domain__lrm-mark">
+      ‎
+     </span>
+     <span class="responsive-domain__tld">
+      %%tlds%%
+     </span>
+    </div>
+    <div class="check-result__meta-wrapper">
+     %%priceHtml%%
+                %%actionHtml%%
+    </div>
+   </li>
+   <li class="check-result-detail check-result-detail--template">
+    %%content%%
+   </li>
+  </ul>
+  <span class="check-result__price check-result__price--%%priceModifier%% check-result__price--template">
+   <span class="check-result__price-container">
+    <span class="one-u-font-bold">
+     %%priceDataFormatted.firstPeriodCosts%%
+     <sup class="check-result__promotion-star">
+      *
+     </sup>
+    </span>
+   </span>
+  </span>
+  <span class="check-result__price check-result__price--%%priceModifier%% check-result-bundle__price--template">
+   <span class="check-result__price-container">
+    <span class="one-u-font-bold">
+     %%priceDataFormatted.firstPeriodCosts%%
+     <sup class="check-result__promotion-star">
+      *
+     </sup>
+    </span>
+   </span>
+  </span>
+  <span class="check-result__price check-result__price-empty--template">
+  </span>
+  <div class="check-result__action check-result__action--choose check-result__action--choose--template js-result-action">
+   <button class="one-btn one-btn--success check-result__order-btn check-result__order-btn--chosen js-action-btn" tabindex="-1">
+    <svg class="svg-pictogram svg-pictogram--mark" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M98.185 29.46L40.408 87.447c-2.266 2.308-5.81 2.308-8.076 0L1.815 56.836a5.724 5.724 0 0 1 0-8.142l7.79-7.82c2.297-2.277 5.84-2.277 8.107 0L36.386 59.59 82.288 13.53c2.266-2.276 5.842-2.276 8.076 0l7.82 7.82c2.267 2.277 2.267 5.835 0 8.11z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Selected
+    </span>
+   </button>
+   <div class="check-result__order-btn-loader-wrapper">
+    <img alt="" class="check-result__order-btn-loader js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   </div>
+   <button class="one-btn one-btn--order check-result__order-btn check-result__order-btn--cart-add js-action-btn" tabindex="0">
+    <svg class="svg-pictogram svg-pictogram--cart-add" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M44.77 41.54a3.23 3.23 0 0 0 0 4.57L57 58.38c.04.03.1 0 .13.04a3.1 3.1 0 0 0 2.24.98h.03c.1 0 .18-.05.27-.06a3.07 3.07 0 0 0 1.67-.68c.13-.1.3-.06.43-.18l12.3-12.3a3.25 3.25 0 1 0-4.6-4.6l-6.97 7v-29.8a3.12 3.12 0 0 0-6.25 0v29.7l-6.9-6.9a3.23 3.23 0 0 0-4.58 0zm-1.02 42.84a6.25 6.25 0 1 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm31.25 0a6.25 6.25 0 0 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm25-53.13c0-.47-.12-.9-.3-1.3-.1-.25-.25-.4-.4-.6-.33-.4-.73-.78-1.23-1-.1-.02-.12-.13-.22-.16-.32-.1-.63-.1-.94-.08H68.78v6.25h24.3L82 71.87H40.63c-.2 0-.4.08-.58.1l-8.77-37.6H50v-6.24H29.82L24.87 6.88c.05-.2.13-.4.13-.63 0-1.55-1.15-2.8-2.63-3.03-.16-.04-.3-.08-.47-.1H3.13a3.12 3.12 0 0 0 0 6.25h16.23l15.5 66.48c.4 1.66 2.04 2.65 3.62 2.2.24-.07.33-.3.54-.43.48.3 1 .5 1.6.5H84.4c.16 0 .3-.05.46-.1 1.5-.23 2.64-1.47 2.64-3.02 0-.16-.06-.3-.1-.45L99.96 32c.03-.1-.05-.2-.04-.3.03-.16.1-.3.1-.45z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Choose
+    </span>
+   </button>
+  </div>
+  <div class="check-result__action check-result__action--choose check-result-bundle__action--choose--template js-result-action">
+   <button class="one-btn one-btn--success check-result__order-btn check-result__order-btn--chosen js-action-btn" tabindex="-1">
+    <svg class="svg-pictogram svg-pictogram--mark" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M98.185 29.46L40.408 87.447c-2.266 2.308-5.81 2.308-8.076 0L1.815 56.836a5.724 5.724 0 0 1 0-8.142l7.79-7.82c2.297-2.277 5.84-2.277 8.107 0L36.386 59.59 82.288 13.53c2.266-2.276 5.842-2.276 8.076 0l7.82 7.82c2.267 2.277 2.267 5.835 0 8.11z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Selected
+    </span>
+   </button>
+   <div class="check-result__order-btn-loader-wrapper">
+    <img alt="" class="check-result__order-btn-loader js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   </div>
+   <button class="one-btn one-btn--order check-result__order-btn check-result__order-btn--cart-add js-action-btn" tabindex="0">
+    <svg class="svg-pictogram svg-pictogram--cart-add" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M44.77 41.54a3.23 3.23 0 0 0 0 4.57L57 58.38c.04.03.1 0 .13.04a3.1 3.1 0 0 0 2.24.98h.03c.1 0 .18-.05.27-.06a3.07 3.07 0 0 0 1.67-.68c.13-.1.3-.06.43-.18l12.3-12.3a3.25 3.25 0 1 0-4.6-4.6l-6.97 7v-29.8a3.12 3.12 0 0 0-6.25 0v29.7l-6.9-6.9a3.23 3.23 0 0 0-4.58 0zm-1.02 42.84a6.25 6.25 0 1 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm31.25 0a6.25 6.25 0 0 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm25-53.13c0-.47-.12-.9-.3-1.3-.1-.25-.25-.4-.4-.6-.33-.4-.73-.78-1.23-1-.1-.02-.12-.13-.22-.16-.32-.1-.63-.1-.94-.08H68.78v6.25h24.3L82 71.87H40.63c-.2 0-.4.08-.58.1l-8.77-37.6H50v-6.24H29.82L24.87 6.88c.05-.2.13-.4.13-.63 0-1.55-1.15-2.8-2.63-3.03-.16-.04-.3-.08-.47-.1H3.13a3.12 3.12 0 0 0 0 6.25h16.23l15.5 66.48c.4 1.66 2.04 2.65 3.62 2.2.24-.07.33-.3.54-.43.48.3 1 .5 1.6.5H84.4c.16 0 .3-.05.46-.1 1.5-.23 2.64-1.47 2.64-3.02 0-.16-.06-.3-.1-.45L99.96 32c.03-.1-.05-.2-.04-.3.03-.16.1-.3.1-.45z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Choose
+    </span>
+   </button>
+  </div>
+ </div>
+</form>
+
+
+(i) http://transip.eu/:
+
+<form action="/order-domain/services/update-domain-selection/" class="hidden js-update-selection-form" method="post">
+ <input name="action" type="hidden" value="post"/>
+ <input class="js-update-selection-form__domain" name="domain" type="hidden" value=""/>
+ <input class="js-update-selection-form__domain-action" name="domainAction" type="hidden" value=""/>
+ <input class="js-update-selection-form__search" name="search" type="hidden" value=""/>
+ <input name="service" type="hidden" value=""/>
+ <input name="returnData" type="hidden" value="redirect"/>
+ <input name="redirect" type="hidden" value="/cart/services/add-from-sub-cart/domain/"/>
+ <input name="_csrf_token" type="hidden" value="f6a89c6f2271104bb6bc8d0e4e34b788"/>
+</form>
+
+(i) http://transip.eu/:
+
+<form action="/services/cookie-consent/" class="js-generic-module" data-components="one-form-handler" method="POST">
+ <input name="tracking" type="hidden" value="true"/>
+ <input name="marketing" type="hidden" value="true"/>
+ <button class="one-btn one-btn--round one-btn--lg one-btn--primary one-btn--min-width" type="submit">
+  Accept all cookies
+ </button>
+</form>
+
+(i) http://transip.eu/domain-name/:
+
+<form action="/order-domain/services/check/" aria-label="Your preferred domain name" class="checker-form checker-form--instant js-checker-form checker-form--transparent-light checker-form--normal" data-disable-autofocus="1" data-submit-type="default" method="post">
+ <input name="selectedPackage" type="hidden" value=""/>
+ <input name="requiredTld" type="hidden" value=""/>
+ <div class="checker-form__normal">
+  <div class="checker-form__input-wrapper">
+   <input aria-label="Domain name" autocomplete="off" class="one-form-control checker-form__input js-search-input" name="search" placeholder="Your preferred domain name" spellcheck="false" type="search" value=""/>
+  </div>
+  <div class="checker-form__actions">
+   <a class="checker-form__bulk-link checker-form__bulk-link--open js-bulk-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-v3 to-bulk" href="#" role="button">
+    <span aria-hidden="true">
+     Bulk
+    </span>
+    <span class="one-u-sr-only">
+     Check multiple domain names at once
+    </span>
+    <span aria-hidden="true" class="checker-form__bulk-link-icon">
+     <svg class="svg-pictogram svg-pictogram--close-correct" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M97.2 83.963L63.237 50 97.2 16.037c3.667-3.667 3.667-9.57 0-13.237s-9.57-3.667-13.237 0L50 36.763 16.037 2.8C12.37-.867 6.467-.867 2.8 2.8s-3.667 9.57 0 13.237L36.763 50 2.8 83.963c-3.667 3.667-3.667 9.57 0 13.237s9.57 3.667 13.237 0L50 63.237 83.963 97.2c3.667 3.667 9.57 3.667 13.237 0 3.64-3.667 3.64-9.596 0-13.237z">
+      </path>
+     </svg>
+    </span>
+   </a>
+   <button class="one-btn one-btn--order checker-form__submit js-submit-btn" type="submit">
+    <span aria-hidden="true" class="checker-form__submit-label-xs">
+     <svg class="svg-pictogram svg-pictogram--search" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M68.785 42.486q0-10.865-7.718-18.586t-18.59-7.72-18.58 7.72-7.726 18.586T23.9 61.072t18.58 7.718 18.59-7.72 7.72-18.59l-.003.006zm30.073 48.85q0 3.057-2.237 5.284t-5.277 2.24q-3.17 0-5.284-2.237l-20.14-20.08q-10.51 7.282-23.43 7.282-8.394 0-16.056-3.256T13.22 71.755 4.4 58.543t-3.255-16.06 3.255-16.06 8.813-13.214 13.21-8.814T42.48 1.14t16.065 3.256 13.213 8.813T80.57 26.42t3.256 16.06q0 12.924-7.28 23.43l20.138 20.145q2.17 2.17 2.17 5.285l.004-.007z">
+      </path>
+     </svg>
+    </span>
+    <span aria-hidden="true" class="checker-form__submit-label">
+     Check
+    </span>
+    <span class="one-u-sr-only">
+     Check
+    </span>
+   </button>
+  </div>
+ </div>
+ <div class="checker-form__bulk">
+  <div class="checker-form__textarea-wrapper">
+   <textarea aria-label="Enter multiple domain names at once" class="one-form-control checker-form__textarea js-search-textarea" data-max-rows="50" data-second-placeholder="Check up to 50 domain names including domain extension" data-second-placeholder-class="one-form-control checker-form__second-placeholder" data-second-placeholder-determine-height-class="checker-form__second-placeholder-determine-height" disabled="" name="search-bulk" placeholder="Check up to 50 domain names including domain extension" rows="4"></textarea>
+  </div>
+  <div class="checker-form__actions checker-form__actions--bulk">
+   <a class="checker-form__bulk-link checker-form__bulk-link--close js-bulk-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-v3 to-normal" href="#" role="button">
+    <span aria-hidden="true">
+     Bulk
+    </span>
+    <span class="one-u-sr-only">
+     Back to input for single domain name
+    </span>
+    <span aria-hidden="true" class="checker-form__bulk-link-icon">
+     <svg class="svg-pictogram svg-pictogram--close-correct" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M97.2 83.963L63.237 50 97.2 16.037c3.667-3.667 3.667-9.57 0-13.237s-9.57-3.667-13.237 0L50 36.763 16.037 2.8C12.37-.867 6.467-.867 2.8 2.8s-3.667 9.57 0 13.237L36.763 50 2.8 83.963c-3.667 3.667-3.667 9.57 0 13.237s9.57 3.667 13.237 0L50 63.237 83.963 97.2c3.667 3.667 9.57 3.667 13.237 0 3.64-3.667 3.64-9.596 0-13.237z">
+      </path>
+     </svg>
+    </span>
+   </a>
+   <button class="one-btn one-btn--order checker-form__submit checker-form__submit--bulk js-bulk-submit-btn" type="submit">
+    <span class="checker-form__submit-label-xs">
+     <svg class="svg-pictogram svg-pictogram--search" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M68.785 42.486q0-10.865-7.718-18.586t-18.59-7.72-18.58 7.72-7.726 18.586T23.9 61.072t18.58 7.718 18.59-7.72 7.72-18.59l-.003.006zm30.073 48.85q0 3.057-2.237 5.284t-5.277 2.24q-3.17 0-5.284-2.237l-20.14-20.08q-10.51 7.282-23.43 7.282-8.394 0-16.056-3.256T13.22 71.755 4.4 58.543t-3.255-16.06 3.255-16.06 8.813-13.214 13.21-8.814T42.48 1.14t16.065 3.256 13.213 8.813T80.57 26.42t3.256 16.06q0 12.924-7.28 23.43l20.138 20.145q2.17 2.17 2.17 5.285l.004-.007z">
+      </path>
+     </svg>
+    </span>
+    <span aria-hidden="true" class="checker-form__submit-label">
+     Check
+    </span>
+    <span class="one-u-sr-only">
+     Check
+    </span>
+   </button>
+  </div>
+ </div>
+ <div class="instant-results hidden js-instant-results">
+  <div class="instant-results__dropdown">
+   <ul class="instant-results__list js-instant-results__list">
+   </ul>
+   <div class="instant-results__loader js-instant-results__loader">
+    <img alt="" class="instant-results__loader-img js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+    Checking...
+   </div>
+   <div class="instant-results__none js-instant-results__none">
+    No popular extensions are available.
+   </div>
+   <div class="instant-results__promotion-limits js-promotion-limits hidden">
+    <p class="domain-promotions-explanation instant-results__promotion-limits-p">
+     * Promotion rate applies for the first year.
+    </p>
+   </div>
+   <a class="instant-results__all-link js-all-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-block-v3 check-all" href="/order-domain/check/">
+    Check all (Enter)
+   </a>
+  </div>
+ </div>
+ <div class="hidden">
+  <ul class="check-results">
+   <li class="check-result check-result--instant s-idle check-result--template">
+    <div class="responsive-domain responsive-domain--check-result">
+     <span class="responsive-domain__name">
+      %%domain%%
+     </span>
+     <span class="responsive-domain__lrm-mark">
+      ‎
+     </span>
+     <span class="responsive-domain__tld">
+      %%tld%%
+     </span>
+    </div>
+    %%whoisHtml%%
+    <div class="check-result__meta-wrapper">
+     %%priceHtml%%
+                %%actionHtml%%
+    </div>
+   </li>
+   <li class="check-result check-result-bundle check-result--instant s-idle check-result-bundle--template">
+    <div class="responsive-domain responsive-domain--check-result">
+     <span class="responsive-domain__name">
+      %%domain%%
+     </span>
+     <span class="responsive-domain__lrm-mark">
+      ‎
+     </span>
+     <span class="responsive-domain__tld">
+      %%tlds%%
+     </span>
+    </div>
+    <div class="check-result__meta-wrapper">
+     %%priceHtml%%
+                %%actionHtml%%
+    </div>
+   </li>
+   <li class="check-result-detail check-result-detail--template">
+    %%content%%
+   </li>
+  </ul>
+  <span class="check-result__price check-result__price--%%priceModifier%% check-result__price--template">
+   <span class="check-result__price-container">
+    <span class="one-u-font-bold">
+     %%priceDataFormatted.firstPeriodCosts%%
+     <sup class="check-result__promotion-star">
+      *
+     </sup>
+    </span>
+   </span>
+  </span>
+  <span class="check-result__price check-result__price--%%priceModifier%% check-result-bundle__price--template">
+   <span class="check-result__price-container">
+    <span class="one-u-font-bold">
+     %%priceDataFormatted.firstPeriodCosts%%
+     <sup class="check-result__promotion-star">
+      *
+     </sup>
+    </span>
+   </span>
+  </span>
+  <span class="check-result__price check-result__price-empty--template">
+  </span>
+  <div class="check-result__action check-result__action--choose check-result__action--choose--template js-result-action">
+   <button class="one-btn one-btn--success check-result__order-btn check-result__order-btn--chosen js-action-btn" tabindex="-1">
+    <svg class="svg-pictogram svg-pictogram--mark" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M98.185 29.46L40.408 87.447c-2.266 2.308-5.81 2.308-8.076 0L1.815 56.836a5.724 5.724 0 0 1 0-8.142l7.79-7.82c2.297-2.277 5.84-2.277 8.107 0L36.386 59.59 82.288 13.53c2.266-2.276 5.842-2.276 8.076 0l7.82 7.82c2.267 2.277 2.267 5.835 0 8.11z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Selected
+    </span>
+   </button>
+   <div class="check-result__order-btn-loader-wrapper">
+    <img alt="" class="check-result__order-btn-loader js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   </div>
+   <button class="one-btn one-btn--order check-result__order-btn check-result__order-btn--cart-add js-action-btn" tabindex="0">
+    <svg class="svg-pictogram svg-pictogram--cart-add" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M44.77 41.54a3.23 3.23 0 0 0 0 4.57L57 58.38c.04.03.1 0 .13.04a3.1 3.1 0 0 0 2.24.98h.03c.1 0 .18-.05.27-.06a3.07 3.07 0 0 0 1.67-.68c.13-.1.3-.06.43-.18l12.3-12.3a3.25 3.25 0 1 0-4.6-4.6l-6.97 7v-29.8a3.12 3.12 0 0 0-6.25 0v29.7l-6.9-6.9a3.23 3.23 0 0 0-4.58 0zm-1.02 42.84a6.25 6.25 0 1 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm31.25 0a6.25 6.25 0 0 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm25-53.13c0-.47-.12-.9-.3-1.3-.1-.25-.25-.4-.4-.6-.33-.4-.73-.78-1.23-1-.1-.02-.12-.13-.22-.16-.32-.1-.63-.1-.94-.08H68.78v6.25h24.3L82 71.87H40.63c-.2 0-.4.08-.58.1l-8.77-37.6H50v-6.24H29.82L24.87 6.88c.05-.2.13-.4.13-.63 0-1.55-1.15-2.8-2.63-3.03-.16-.04-.3-.08-.47-.1H3.13a3.12 3.12 0 0 0 0 6.25h16.23l15.5 66.48c.4 1.66 2.04 2.65 3.62 2.2.24-.07.33-.3.54-.43.48.3 1 .5 1.6.5H84.4c.16 0 .3-.05.46-.1 1.5-.23 2.64-1.47 2.64-3.02 0-.16-.06-.3-.1-.45L99.96 32c.03-.1-.05-.2-.04-.3.03-.16.1-.3.1-.45z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Choose
+    </span>
+   </button>
+  </div>
+  <div class="check-result__action check-result__action--choose check-result-bundle__action--choose--template js-result-action">
+   <button class="one-btn one-btn--success check-result__order-btn check-result__order-btn--chosen js-action-btn" tabindex="-1">
+    <svg class="svg-pictogram svg-pictogram--mark" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M98.185 29.46L40.408 87.447c-2.266 2.308-5.81 2.308-8.076 0L1.815 56.836a5.724 5.724 0 0 1 0-8.142l7.79-7.82c2.297-2.277 5.84-2.277 8.107 0L36.386 59.59 82.288 13.53c2.266-2.276 5.842-2.276 8.076 0l7.82 7.82c2.267 2.277 2.267 5.835 0 8.11z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Selected
+    </span>
+   </button>
+   <div class="check-result__order-btn-loader-wrapper">
+    <img alt="" class="check-result__order-btn-loader js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   </div>
+   <button class="one-btn one-btn--order check-result__order-btn check-result__order-btn--cart-add js-action-btn" tabindex="0">
+    <svg class="svg-pictogram svg-pictogram--cart-add" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M44.77 41.54a3.23 3.23 0 0 0 0 4.57L57 58.38c.04.03.1 0 .13.04a3.1 3.1 0 0 0 2.24.98h.03c.1 0 .18-.05.27-.06a3.07 3.07 0 0 0 1.67-.68c.13-.1.3-.06.43-.18l12.3-12.3a3.25 3.25 0 1 0-4.6-4.6l-6.97 7v-29.8a3.12 3.12 0 0 0-6.25 0v29.7l-6.9-6.9a3.23 3.23 0 0 0-4.58 0zm-1.02 42.84a6.25 6.25 0 1 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm31.25 0a6.25 6.25 0 0 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm25-53.13c0-.47-.12-.9-.3-1.3-.1-.25-.25-.4-.4-.6-.33-.4-.73-.78-1.23-1-.1-.02-.12-.13-.22-.16-.32-.1-.63-.1-.94-.08H68.78v6.25h24.3L82 71.87H40.63c-.2 0-.4.08-.58.1l-8.77-37.6H50v-6.24H29.82L24.87 6.88c.05-.2.13-.4.13-.63 0-1.55-1.15-2.8-2.63-3.03-.16-.04-.3-.08-.47-.1H3.13a3.12 3.12 0 0 0 0 6.25h16.23l15.5 66.48c.4 1.66 2.04 2.65 3.62 2.2.24-.07.33-.3.54-.43.48.3 1 .5 1.6.5H84.4c.16 0 .3-.05.46-.1 1.5-.23 2.64-1.47 2.64-3.02 0-.16-.06-.3-.1-.45L99.96 32c.03-.1-.05-.2-.04-.3.03-.16.1-.3.1-.45z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Choose
+    </span>
+   </button>
+  </div>
+ </div>
+</form>
+
+
+(i) http://transip.eu/domain-name/:
+
+<form action="/order-domain/services/update-domain-selection/" class="hidden js-update-selection-form" method="post">
+ <input name="action" type="hidden" value="post"/>
+ <input class="js-update-selection-form__domain" name="domain" type="hidden" value=""/>
+ <input class="js-update-selection-form__domain-action" name="domainAction" type="hidden" value=""/>
+ <input class="js-update-selection-form__search" name="search" type="hidden" value=""/>
+ <input name="service" type="hidden" value=""/>
+ <input name="returnData" type="hidden" value="redirect"/>
+ <input name="redirect" type="hidden" value="/cart/services/add-from-sub-cart/domain/"/>
+ <input name="_csrf_token" type="hidden" value="f365b377aa676557e00d4c005a232203"/>
+</form>
+
+(i) http://transip.eu/domain-name/:
+
+<form action="/services/cookie-consent/" class="js-generic-module" data-components="one-form-handler" method="POST">
+ <input name="tracking" type="hidden" value="true"/>
+ <input name="marketing" type="hidden" value="true"/>
+ <button class="one-btn one-btn--round one-btn--lg one-btn--primary one-btn--min-width" type="submit">
+  Accept all cookies
+ </button>
+</form>
+
+(i) http://transip.eu/domain-name/forwarding/:
+
+<form action="/services/cookie-consent/" class="js-generic-module" data-components="one-form-handler" method="POST">
+ <input name="tracking" type="hidden" value="true"/>
+ <input name="marketing" type="hidden" value="true"/>
+ <button class="one-btn one-btn--round one-btn--lg one-btn--primary one-btn--min-width" type="submit">
+  Accept all cookies
+ </button>
+</form>
+
+(i) http://transip.eu/webhosting/:
+
+<form action="/services/cookie-consent/" class="js-generic-module" data-components="one-form-handler" method="POST">
+ <input name="tracking" type="hidden" value="true"/>
+ <input name="marketing" type="hidden" value="true"/>
+ <button class="one-btn one-btn--round one-btn--lg one-btn--primary one-btn--min-width" type="submit">
+  Accept all cookies
+ </button>
+</form>
+
+(i) http://transip.eu/webhosting/wordpress/:
+
+<form action="/services/cookie-consent/" class="js-generic-module" data-components="one-form-handler" method="POST">
+ <input name="tracking" type="hidden" value="true"/>
+ <input name="marketing" type="hidden" value="true"/>
+ <button class="one-btn one-btn--round one-btn--lg one-btn--primary one-btn--min-width" type="submit">
+  Accept all cookies
+ </button>
+</form>
+
+(i) http://transip.eu/webhosting/emailonly/:
+
+<form action="/services/cookie-consent/" class="js-generic-module" data-components="one-form-handler" method="POST">
+ <input name="tracking" type="hidden" value="true"/>
+ <input name="marketing" type="hidden" value="true"/>
+ <button class="one-btn one-btn--round one-btn--lg one-btn--primary one-btn--min-width" type="submit">
+  Accept all cookies
+ </button>
+</form>
+
+(i) http://transip.eu/vps/:
+
+<form action="/order-vps/services/set-package/" class="one-product-specs one-product-specs--vps js-products-module one-product-specs--lightblue gtm-ga-submit-engagement js-generic-module" data-components="vps-specs-block one-form-handler" data-gtm-ga-submit-engagement-label="vps submit X8" method="post">
+ <input name="vpsMappingName" type="hidden" value="bladevps-x8"/>
+ <input name="vpsPrice" type="hidden" value="5000"/>
+ <input name="vpsRecurringPrice" type="hidden" value="5000"/>
+ <header class="one-product-specs__header">
+  <h3 class="one-product-specs__headingtext">
+   X8
+  </h3>
+  <div class="one-product-specs-pricing__wrapper">
+   <div class="one-product-specs-pricing">
+    <span class="one-product-specs-pricing__price js-first-year-costs">
+     € 50,-
+    </span>
+    <div class="one-product-specs-pricing__price-additional-info">
+     <span class="one-product-specs-pricing__price-period">
+      /mo
+     </span>
+    </div>
+   </div>
+  </div>
+ </header>
+ <div class="one-product-specs__body">
+  <ul class="one-product-specs-speclist one-list-bare one-u-m-t-24 one-u-m-b-24">
+   <li class="one-product-specs-speclist__item">
+    <span class="one-product-specs-speclist__icon">
+     <svg class="svg-illustration svg-illustration--vps-spec-processor" viewBox="0 0 74.09288 74.09288" xmlns="http://www.w3.org/2000/svg">
+      <path d="M18.158 19.105h40v37h-40z" fill="#fff">
+      </path>
+      <path d="M45.55 70.317a3.776 3.776 0 0 0 7.55 0v-6.095h-7.543v6.095h-.008zm0-66.542V9.87h7.542V3.776C53.092 1.69 51.402 0 49.317 0S45.55 1.69 45.55 3.775zm-12.28 0V9.87h7.552V3.776a3.776 3.776 0 0 0-7.55 0zm0 66.542a3.776 3.776 0 0 0 7.552 0v-6.095h-7.55v6.095zM21 3.775V9.87h7.544V3.776C28.544 1.69 26.854 0 24.768 0S21 1.69 21 3.775zm0 66.542a3.776 3.776 0 0 0 7.552 0v-6.095h-7.55v6.095zm-21-21a3.776 3.776 0 0 0 3.775 3.775H9.87V45.55H3.776A3.77 3.77 0 0 0 0 49.316zm70.317-3.767h-6.095v7.542h6.095c2.085 0 3.776-1.69 3.776-3.775s-1.69-3.768-3.776-3.768zM0 37.046a3.776 3.776 0 0 0 3.775 3.776H9.87v-7.55H3.776A3.776 3.776 0 0 0 0 37.045zm70.317-3.776h-6.095v7.552h6.095a3.776 3.776 0 0 0 0-7.55zM0 24.776a3.776 3.776 0 0 0 3.775 3.776H9.87v-7.55H3.776A3.776 3.776 0 0 0 0 24.775zM70.317 21h-6.095v7.544h6.095c2.085 0 3.776-1.69 3.776-3.776S72.403 21 70.317 21zm-13.654-7.503H17.43a3.934 3.934 0 0 0-3.933 3.933v39.233a3.934 3.934 0 0 0 3.933 3.933h39.233a3.934 3.934 0 0 0 3.933-3.933V17.43a3.934 3.934 0 0 0-3.933-3.933zm-8.937 32.445c0 .985-.8 1.784-1.784 1.784h-17.79c-.986 0-1.785-.8-1.785-1.784V28.15c0-.984.8-1.783 1.784-1.783h17.794c.985 0 1.784.8 1.784 1.783v17.792z" fill="#00bf19">
+      </path>
+     </svg>
+    </span>
+    <span class="one-product-specs-speclist__text">
+     4 CPU Cores
+    </span>
+   </li>
+   <li class="one-product-specs-speclist__item">
+    <span class="one-product-specs-speclist__icon">
+     <svg class="svg-illustration svg-illustration--vps-spec-memory" viewBox="0 0 64.42322 33.35559" xmlns="http://www.w3.org/2000/svg">
+      <path d="M51.028 13.72v18.834H28.51V13.72z" fill="#fff">
+      </path>
+      <path d="M28.53 30.22l-3.5-1.5-3.668 1.5-.758 2.5-3.575-.666.33-12.667 12.668-5.333 5.665 15z" fill="#fff">
+      </path>
+      <path d="M60.03 2.72v18.834H2.86V2.72z" fill="#fff">
+      </path>
+      <path d="M58.362 13.72v18.834H35.844V13.72zm-30.425.167V32.72H4.344V13.887z" fill="#fff">
+      </path>
+      <path d="M36.112 30.137l-3.5-1.5-3.667 1.5-.757 2.5-3.576-.666.333-12.665 12.667-5.333 5.667 15z" fill="#fff">
+      </path>
+      <path d="M35.393 32.628v.728h23.672v-7.184h5.358V2.65l-.944.092A1.883 1.883 0 0 1 61.6.87l.058-.87H2.554l.04.772c0 .043.008.086.01.092C2.604 1.9 1.764 2.74.73 2.74H0v23.43h3.734v7.184H29.03v-.726c0-1.754 1.43-3.18 3.18-3.18a3.183 3.183 0 0 1 3.183 3.18zM5.003 20.045V5.28h6.524v14.765H5.002zm8.66 0V5.28h6.525v14.765h-6.524zm9.083 0V5.28h6.528v14.765h-6.528zm12.046 0V5.28h6.524v14.765h-6.524zm8.662 0V5.28h6.526v14.765h-6.526zm9.084 0V5.28h6.527v14.765h-6.527zM27.634 31.9H5.19v-5.728h4.246v4.225h1.455v-4.225h1.61v4.225h1.454v-4.225h1.558v4.225h1.457v-4.225h1.394v4.225h1.456v-4.225h1.608v4.225h1.455v-4.225h1.555v4.225h1.456v-4.225H37.8v4.225h1.457v-4.225h1.61v4.225h1.453v-4.225h1.557v4.225h1.454v-4.225h1.4v4.225h1.455v-4.225h1.608v4.225h1.456v-4.225h1.55v4.225h1.454v-4.225h3.353V31.9H36.794a4.622 4.622 0 0 0-4.583-3.91 4.615 4.615 0 0 0-4.575 3.91z" fill="#228e33">
+      </path>
+     </svg>
+    </span>
+    <span class="one-product-specs-speclist__text">
+     8.192 MB RAM
+    </span>
+   </li>
+   <li class="one-product-specs-speclist__item">
+    <span class="one-product-specs-speclist__icon">
+     <svg class="svg-illustration svg-illustration--vps-spec-puressd" viewBox="0 0 51.8 74" xmlns="http://www.w3.org/2000/svg">
+      <path d="M40.6 40.7a2.28 2.28 0 0 0 1.2-.6 3.035 3.035 0 0 0 .8-1.4 8.8 8.8 0 0 0 .3-2.6 8.8 8.8 0 0 0-.3-2.6 3.687 3.687 0 0 0-.8-1.4 3.293 3.293 0 0 0-1.3-.7 13.576 13.576 0 0 0-2.4-.1h-1.3v9.5H39a7.59 7.59 0 0 0 1.6-.1z" fill="#3fbac2">
+      </path>
+      <path d="M47.5 0H4.2A4.225 4.225 0 0 0 0 4.2v65.6A4.225 4.225 0 0 0 4.2 74h43.4a4.225 4.225 0 0 0 4.2-4.2V4.3A4.4 4.4 0 0 0 47.5 0zM6.2 4.5a2 2 0 1 1-2 2 2.006 2.006 0 0 1 2-2zm0 65.5a2 2 0 1 1 2-2 2.006 2.006 0 0 1-2 2zM17 41.5a4.213 4.213 0 0 1-1.9 1.6 7.21 7.21 0 0 1-3.1.5 6.043 6.043 0 0 1-4.2-1.3 4.312 4.312 0 0 1-1.3-1.9 1.39 1.39 0 0 1 1.2-1.9 1.49 1.49 0 0 1 1.5.9 2.258 2.258 0 0 0 .8 1.1 3.3 3.3 0 0 0 2.1.7 3.28 3.28 0 0 0 2.1-.6 1.746 1.746 0 0 0 .7-1.4 1.613 1.613 0 0 0-.3-.9 2.887 2.887 0 0 0-1-.6c-.3-.1-1.1-.3-2.3-.6A8.67 8.67 0 0 1 8 35.7a3.742 3.742 0 0 1-1.3-2.9 4.2 4.2 0 0 1 .6-2.1 4.53 4.53 0 0 1 1.8-1.5 5.4 5.4 0 0 1 2.7-.6 6.082 6.082 0 0 1 4.1 1.2 2.73 2.73 0 0 1 .9 1.2 1.466 1.466 0 0 1-1.2 2.1h-.1a1.6 1.6 0 0 1-1.4-.8 1.794 1.794 0 0 0-.5-.7 2.97 2.97 0 0 0-1.8-.5 3.94 3.94 0 0 0-2 .5 1.05 1.05 0 0 0-.5.9 1.222 1.222 0 0 0 .4.9 10.254 10.254 0 0 0 2.7 1 14.006 14.006 0 0 1 3.1 1 3.86 3.86 0 0 1 1.6 1.5 4.143 4.143 0 0 1 .6 2.3 3.89 3.89 0 0 1-.7 2.3zm13.6 0a4.213 4.213 0 0 1-1.9 1.6 7.21 7.21 0 0 1-3.1.5 6.043 6.043 0 0 1-4.2-1.3 4.312 4.312 0 0 1-1.3-1.9 1.39 1.39 0 0 1 1.2-1.9 1.49 1.49 0 0 1 1.5.9 2.258 2.258 0 0 0 .8 1.1 3.72 3.72 0 0 0 4.2.1 1.746 1.746 0 0 0 .7-1.4 1.88 1.88 0 0 0-.4-1 2.887 2.887 0 0 0-1-.6c-.3-.1-1.1-.3-2.3-.6a8.67 8.67 0 0 1-3.3-1.4 3.742 3.742 0 0 1-1.3-2.9 4.2 4.2 0 0 1 .6-2.1 4.53 4.53 0 0 1 1.8-1.5 7.782 7.782 0 0 1 2.8-.5 6.082 6.082 0 0 1 4.1 1.2 2.73 2.73 0 0 1 .9 1.2 1.466 1.466 0 0 1-1.2 2.1h-.1a1.6 1.6 0 0 1-1.4-.8 1.794 1.794 0 0 0-.5-.7 2.97 2.97 0 0 0-1.8-.5 3.94 3.94 0 0 0-2 .5 1.05 1.05 0 0 0-.5.9 1.222 1.222 0 0 0 .4.9 10.254 10.254 0 0 0 2.7 1 14.006 14.006 0 0 1 3.1 1 3.86 3.86 0 0 1 1.6 1.5 4.143 4.143 0 0 1 .6 2.3 3.89 3.89 0 0 1-.7 2.3zm8.7 1.7h-4a1.367 1.367 0 0 1-1.4-1.4l-.2-11.5a1.367 1.367 0 0 1 1.4-1.4H39a9.1 9.1 0 0 1 2.7.3 4.962 4.962 0 0 1 2.2 1.3 5.935 5.935 0 0 1 1.4 2.3 11.09 11.09 0 0 1 .5 3.4 13.742 13.742 0 0 1-.4 3.1 6.644 6.644 0 0 1-1.5 2.5 4.333 4.333 0 0 1-2 1.1 8.8 8.8 0 0 1-2.6.3zM45 70a2 2 0 1 1 2-2 1.888 1.888 0 0 1-2 2zm0-61.5a2 2 0 1 1 2-2 2.006 2.006 0 0 1-2 2z" fill="#3fbac2">
+      </path>
+     </svg>
+    </span>
+    <span class="one-product-specs-speclist__text">
+     300 GB SSD
+    </span>
+   </li>
+   <li class="one-product-specs-speclist__item">
+    <span class="one-product-specs-speclist__icon">
+     <svg class="svg-illustration svg-illustration--vps-spec-traffic" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M52.891 64.277l-5.168-5.248-4.067 4.003-12.312 12.121-9.895-10.05-1.468 26.925 26.945-1.047-10.414-10.579 16.379-16.125zM51.79 55.026l4.068-4.004 5.167 5.249-4.067 4.004zM59.923 47.018l4.067-4.004 5.167 5.25-4.066 4.003z" fill="#003ba3">
+      </path>
+      <path d="M56.419 10.575l10.048 10.206-33.059 32.547 5.167 5.249 33.06-32.547 10.261 10.423 1.468-26.926-26.945 1.048zM31.532 34.45l4.067-4.004 5.168 5.249-4.067 4.003z" fill="#003ba3">
+      </path>
+      <path d="M39.665 26.443l4.067-4.004 5.168 5.249-4.067 4.004zM15.265 50.463l4.067-4.003 5.168 5.249-4.067 4.003zM23.4 42.456l4.066-4.004 5.168 5.25-4.067 4.003zM46.17 81.853l4.066-4.004 5.168 5.25-4.067 4.003zM70.57 57.831l4.066-4.004 5.168 5.25-4.067 4.003zM62.436 65.839l4.067-4.004 5.167 5.249-4.066 4.004zM54.304 73.846l4.067-4.003 5.167 5.249-4.067 4.003z" fill="#003ba3">
+      </path>
+     </svg>
+    </span>
+    <span class="one-product-specs-speclist__text">
+     10 TB Pooled Traffic
+    </span>
+   </li>
+   <li class="one-product-specs-speclist__item">
+    <span class="one-product-specs-speclist__icon">
+     <svg class="svg-illustration svg-illustration--vps-spec-backups" viewBox="0 0 591.87994 549.94202" xmlns="http://www.w3.org/2000/svg">
+      <path d="M590.62 276.458c-.383 54.04-14.13 104.405-44.558 149.14-18.095 26.606-40.553 49.76-66.64 69.085-53.034 39.29-112.607 57.972-178.404 54.94-65.43-3.012-122.8-26.885-171.842-70.484-2.972-2.645-6.414-4.78-9.237-7.56-1.697-1.67-3.013-3.99-3.817-6.257-3.742-10.55-.172-22.358 8.732-29.713 8.936-7.38 21.364-8.63 31.33-2.91 2.716 1.56 5.2 3.603 7.56 5.687 63.008 55.707 135.624 73.538 215.67 48.537 80.28-25.073 130.808-81.133 149.35-163.3 15.222-67.448-.487-129.115-41.958-184.407-39.04-52.052-91.93-79.194-155.738-84.605-59.82-5.072-113.308 12.58-159.52 51.173-7.523 6.28-14.974 12.95-21.12 20.525-27.49 33.89-47.856 71.292-54.243 115.186-.94 6.466 1.603 9.393 8.14 9.43 8.166.05 16.334-.1 24.5.036 6.86.115 9.61 5.364 6.148 11.32-20.254 34.86-40.467 69.744-60.81 104.552-1.024 1.75-2.917 3.4-4.786 4.165-3.61 1.475-5.704-.397-7.64-3.763C41.803 332.58 21.61 298.07 1.7 263.397c-1.4-2.44-2.145-6.11-1.417-8.713 1.022-3.657 4.926-3.777 8.425-3.723 6.997.108 13.998.045 20.998.014 6.552-.028 8.287-1.483 9.114-7.907 6.527-50.723 24.99-96.615 56.814-136.68C141.7 48.39 201.424 12.983 274.912 2.742 421.19-17.643 555.512 77.6 585.12 222.352c3.62 17.704 4.572 35.953 6.76 53.95l-1.26.157z" fill="#ec5a84">
+      </path>
+      <path d="M318.447 184.618c0 25.816-.08 51.63.13 77.445.02 2.472 1.852 4.926 2.83 7.393 1.793 4.53 3.567 9.07 5.37 13.597.808 2.026 1.168 4.512 2.578 5.973 21.63 22.408 43.398 44.68 65.135 66.985.58.598 1.176 1.18 1.753 1.78 4.64 4.818 5.988 10.156 3.51 13.875-1.882 2.824-11.303 4.715-15.35 2.59-2.736-1.434-5.242-3.53-7.434-5.743-20.63-20.822-41.056-41.848-61.856-62.497-3.23-3.208-7.953-5.014-12.166-7.106-5.927-2.945-13.272-3.87-15.436-11.756-1.787-6.514.097-12.03 4.06-17.256 1.373-1.813 2.588-4.32 2.59-6.512.083-51.464-.027-102.927-.028-154.39 0-2.78.14-5.748 1.102-8.295 2.032-5.39 7.884-8.243 13.392-7.125 5.934 1.204 9.925 6.085 9.974 12.6.072 9.493-.064 18.986-.073 28.48-.017 16.654-.005 33.31-.005 49.964h-.08z" fill="#ec5a84">
+      </path>
+     </svg>
+    </span>
+    <span class="one-product-specs-speclist__text">
+     Automatic backups
+    </span>
+   </li>
+   <li class="one-product-specs-speclist__item">
+    <span class="one-product-specs-speclist__icon">
+     <svg class="svg-illustration svg-illustration--vps-spec-snapshots" viewBox="0 0 80.63074 65.51235" xmlns="http://www.w3.org/2000/svg">
+      <path d="M23.937 37.796c0 9.045 7.333 16.378 16.378 16.378s16.378-7.333 16.378-16.378-7.332-16.378-16.378-16.378-16.378 7.332-16.378 16.378zM75.59 10.08H57.954C56.694 5.04 55.434 0 50.394 0H30.236c-5.04 0-6.3 5.04-7.56 10.08H5.04A5.054 5.054 0 0 0 0 15.117v45.355a5.054 5.054 0 0 0 5.04 5.04h70.55c2.773 0 5.04-2.268 5.04-5.04V15.118c0-2.77-2.267-5.04-5.04-5.04zM40.316 60.157c-12.35 0-22.362-10.012-22.362-22.362 0-12.35 10.012-22.363 22.362-22.363S62.68 25.444 62.68 37.795c0 12.35-10.013 22.362-22.364 22.362zm35.276-34.96h-10.08v-5.04h10.08v5.04z" fill="#28304c">
+      </path>
+     </svg>
+    </span>
+    <span class="one-product-specs-speclist__text">
+     1 Snapshot
+    </span>
+    <span class="one-product-specs-speclist__sub-text">
+    </span>
+   </li>
+   <li class="one-product-specs-speclist__item">
+    <span class="one-product-specs-speclist__icon">
+     <svg class="svg-illustration svg-illustration--vps-spec-monitoring" viewBox="0 0 56.61547 37.735" xmlns="http://www.w3.org/2000/svg">
+      <path d="M48.687 18.182L39.4 37.735 28.51 9.715l-9.847 18.523-8.506-8.756-5.557 3.46-1.49.932L0 22.086l11.002-6.855 6.5 6.69L29.15 0l10.664 27.436 8.89-18.72 7.91 16.82-4.147.702-3.783-8.056z" fill="#5a00ff">
+      </path>
+     </svg>
+    </span>
+    <span class="one-product-specs-speclist__text">
+     Monitoring
+    </span>
+    <span class="one-product-specs-speclist__sub-text">
+    </span>
+   </li>
+  </ul>
+  <button class="one-btn one-btn--lg one-btn--block one-btn--round one-btn--order one-product-specs__order-button gtm-ga-engagement" data-gtm-ga-engagement-label="specs vps X8" type="submit">
+   Configure
+  </button>
+ </div>
+</form>
+
+

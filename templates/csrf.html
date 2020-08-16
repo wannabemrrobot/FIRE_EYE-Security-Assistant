@@ -1,0 +1,145 @@
+
+{% load widget_tweaks %}
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+
+</style>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.16/js/mdb.min.js"></script>
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.16/css/mdb.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/static/css/tools.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/particles.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/fire-glitch.css">
+
+	<title>CSRF Assesment</title>
+</head>
+
+
+<!-- bg animation -->
+<div id="particles-js"></div> 
+<div class="count-particles"> <span class="js-count-particles"></span> </div> 
+<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
+<script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
+<script type="text/javascript" src="/static/js/particles.js"></script>
+<br><br><br>
+<p >FIREEYE</p>
+
+
+	<center>
+
+<div id="ip">
+
+
+	<form action="{% url 'csrf_detection' %}" method="POST" id="form" name="form" tabindex="-1" >
+
+		{% csrf_token %}
+		<section class="form-elegant"  style="padding-top: 6%;">
+
+			<!-- Grid column -->
+			<div class="col-md-9 col-lg-7 col-xl-5">
+
+			<!--Form without header-->
+			<div class="card" style="width: 80%;opacity: 75%;" >
+			<div class="card-body mx-4" >
+				<!--Header-->
+				<div class="text-center">
+				<h3 class="dark-grey-text mb-5"><strong style="color:rgb(6, 173, 29);font-family: HACKED;font-size: 45px;">CSRF ASSESSMENT
+					</strong>
+				</h3>
+				</div>
+				<div class="text-center">
+					<h3 class="dark-grey-text mb-5"><strong>
+						<img src="https://img.icons8.com/android/32/000000/link.png"
+						style="background-color: rgb(6, 173, 29);border-radius: 50%;padding:1.5%;
+						box-shadow: 0px 0px 12px 3px rgb(6, 173, 29); ">
+						</strong>
+					</h3>
+				</div>
+
+					{{form.url |add_class:"input" }}
+<br>
+
+				<div class="text-center mb-3">
+					<button type="submit" class="btn btn-outline-succes waves-effect" onclick="toggle()"
+					style="border: 2.5px solid rgb(6, 173, 29);font-weight: bolder;
+					background: black;
+					color: rgb(6, 173, 29);
+					padding-left: 25%;padding-right: 25%;box-shadow: 0px 0px 3px 0px rgb(6, 173, 29);"
+					>SUBMIT</button>
+				</div>
+
+			</div>
+			</div>
+		</div>
+		</section>
+	</form>
+
+</div >
+
+
+	<section class="form-elegant" id="scan" style="display:none; padding-top: 6%;" >
+		<!-- Grid column -->
+		<div class="col-md-9 col-lg-7 col-xl-5">
+		<!--Form without header-->
+		<div class="card" style="width: 80%;opacity: 75%;">
+		<div class="card-body mx-4" >
+			<!--Header-->
+			<div class="text-center">
+			<h3 class="dark-grey-text mb-5">
+
+				<img src="https://img.icons8.com/windows/50/000000/portrait-mode-scanning.png"
+				style="background-color: rgb(6, 173, 29);border-radius: 10%;padding:3%;
+				box-shadow: 0px 0px 9px 0px rgb(6, 173, 29); ">
+				<br><br>
+
+				<strong style="color:rgb(6, 173, 29);font-family: Arial, Helvetica, sans-serif;
+				font-family: HACKED;font-size:40px;">
+					Performing CSRF Assessment on the  URL</strong><br><br>
+
+				<p id="value"
+				style="color:white;font-weight: bolder;font-family: Arial, Helvetica, sans-serif;font-size: 23px;"></p>
+			</h3>
+
+		</div>
+
+		</div>
+		</div>
+	</div>
+	</section>
+
+
+
+</center>
+
+	<script>
+		function toggle() {
+
+		  var x = document.getElementById("ip");
+		  var y = document.form.url.value;
+		  var z = document.getElementById("scan");
+		  //alert(y.length);
+
+		  if (y.length == 0) {
+		    x.style.display = "block";
+		  } else {
+		    x.style.display = "none";
+		    z.style.display="block";
+		    document.getElementById('value').innerHTML = y;
+		}
+}
+		</script>
+</body>
+</html>
+

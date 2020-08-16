@@ -1,0 +1,6 @@
+[!] http://google.com -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Date': 'Thu, 12 Mar 2020 15:33:44 GMT', 'Expires': '-1', 'Cache-Control': 'private, max-age=0', 'Content-Type': 'text/html; charset=UTF-8', 'Strict-Transport-Security': 'max-age=31536000', 'Accept-CH': 'DPR', 'Accept-CH-Lifetime': '2592000', 'P3P': 'CP="This is not a P3P policy! See g.co/p3phelp for more info."', 'Content-Encoding': 'br', 'Server': 'gws', 'Content-Length': '60274', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Set-Cookie': 'NID=200=J-Sz1kDfe9qHMccu_KKpujC_wjeC5Cxd7_tYtbDnQ09-AJ7WQKGFtzhFipHOXqTKf6Vr9eJZ_2wdtzFBicJG9mpQxq914sur_Pfh17FXYXWtSzTnJfeHepG89I-J6Nqyt5gQeQeFvW_PSif79ldQAq0upE_Ui0bQsWNEQt-lz28; expires=Fri, 11-Sep-2020 15:33:44 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none', 'Alt-Svc': 'quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000', 'Connection': 'close'}
+
+
+

@@ -1,0 +1,84 @@
+{% load widget_tweaks %}
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.16/js/mdb.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.16/css/mdb.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/static/css/particles.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/fire-glitch.css">
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+
+			body
+			{
+				background-color: black;
+                overflow-X: hidden;
+                height: auto;
+                width: auto;
+            }
+            
+			#result
+			{
+				width: 90%;
+				height: auto;
+				display: inline-block;
+				border: 2px solid rgb(6, 173, 29);
+				border-radius: 8px;
+				font-weight: bolder;
+				box-shadow: 0px 0px 5px 0px rgb(6, 173, 29);
+				color: white;
+                font-size: 24px;
+			}
+	</style>
+
+	<title>DOS Detection Result</title>
+</head>
+
+<!-- bg animation -->
+<div id="particles-js"></div> 
+<div class="count-particles"> <span class="js-count-particles"></span> </div> 
+<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
+<script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
+<script type="text/javascript" src="/static/js/particles.js"></script>>
+<br><br><br>
+<p >FIREEYE</p>
+
+<center>
+
+	<section class="form-elegant" style="width: auto;padding-top: 9%;">
+        <div class="col-md-9 col-lg-7 col-xl-5">
+            <div class="card" style="width: auto;opacity: 75%;background-color: black;  border: 2.5px solid rgb(6, 173, 29); height: auto;">
+                <div class="text-center">
+                    <br>
+                    <center><h3 style="color:rgb(6, 173, 29) ;font-weight: bolder;font-family: HACKED;">DOS ASSESMENT RESULT</h3></center>
+                    <br>
+
+                    <div id="result">
+                        <br>
+                            {{response}}
+                        <br><br>
+
+                    </div>
+                    <br><br>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</center>
+
+</body>
+</html>
