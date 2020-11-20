@@ -1,0 +1,1 @@
+do port scanning nmap scan open port scan closed port scan open or closed

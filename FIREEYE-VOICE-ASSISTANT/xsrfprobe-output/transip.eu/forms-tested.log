@@ -1,0 +1,233 @@
+(i) http://transip.eu:
+
+<form action="/order-domain/services/check/" aria-label="Check your preferred domain name" class="checker-form checker-form--instant js-checker-form checker-form--transparent-light checker-form--normal" data-disable-autofocus="1" data-submit-type="default" method="post">
+ <input name="selectedPackage" type="hidden" value=""/>
+ <input name="requiredTld" type="hidden" value=""/>
+ <div class="checker-form__normal">
+  <div class="checker-form__input-wrapper">
+   <input aria-label="Domain name" autocomplete="off" class="one-form-control checker-form__input js-search-input" name="search" placeholder="Check your preferred domain name" spellcheck="false" type="search" value=""/>
+  </div>
+  <div class="checker-form__actions">
+   <a class="checker-form__bulk-link checker-form__bulk-link--open js-bulk-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-v3 to-bulk" href="#" role="button">
+    <span aria-hidden="true">
+     Bulk
+    </span>
+    <span class="one-u-sr-only">
+     Check multiple domain names at once
+    </span>
+    <span aria-hidden="true" class="checker-form__bulk-link-icon">
+     <svg class="svg-pictogram svg-pictogram--close-correct" viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M97.2 83.963L63.237 50 97.2 16.037c3.667-3.667 3.667-9.57 0-13.237s-9.57-3.667-13.237 0L50 36.763 16.037 2.8C12.37-.867 6.467-.867 2.8 2.8s-3.667 9.57 0 13.237L36.763 50 2.8 83.963c-3.667 3.667-3.667 9.57 0 13.237s9.57 3.667 13.237 0L50 63.237 83.963 97.2c3.667 3.667 9.57 3.667 13.237 0 3.64-3.667 3.64-9.596 0-13.237z">
+      </path>
+     </svg>
+    </span>
+   </a>
+   <button class="one-btn one-btn--order checker-form__submit js-submit-btn" type="submit">
+    <span aria-hidden="true" class="checker-form__submit-label-xs">
+     <svg class="svg-pictogram svg-pictogram--search" viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M68.785 42.486q0-10.865-7.718-18.586t-18.59-7.72-18.58 7.72-7.726 18.586T23.9 61.072t18.58 7.718 18.59-7.72 7.72-18.59l-.003.006zm30.073 48.85q0 3.057-2.237 5.284t-5.277 2.24q-3.17 0-5.284-2.237l-20.14-20.08q-10.51 7.282-23.43 7.282-8.394 0-16.056-3.256T13.22 71.755 4.4 58.543t-3.255-16.06 3.255-16.06 8.813-13.214 13.21-8.814T42.48 1.14t16.065 3.256 13.213 8.813T80.57 26.42t3.256 16.06q0 12.924-7.28 23.43l20.138 20.145q2.17 2.17 2.17 5.285l.004-.007z">
+      </path>
+     </svg>
+    </span>
+    <span aria-hidden="true" class="checker-form__submit-label">
+     Check
+    </span>
+    <span class="one-u-sr-only">
+     Check
+    </span>
+   </button>
+  </div>
+ </div>
+ <div class="checker-form__bulk">
+  <div class="checker-form__textarea-wrapper">
+   <textarea aria-label="Enter multiple domain names at once" class="one-form-control checker-form__textarea js-search-textarea" data-max-rows="50" data-second-placeholder="Check up to 50 domain names including domain extension" data-second-placeholder-class="one-form-control checker-form__second-placeholder" data-second-placeholder-determine-height-class="checker-form__second-placeholder-determine-height" disabled="" name="search-bulk" placeholder="Check up to 50 domain names including domain extension" rows="4"></textarea>
+  </div>
+  <div class="checker-form__actions checker-form__actions--bulk">
+   <a class="checker-form__bulk-link checker-form__bulk-link--close js-bulk-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-v3 to-normal" href="#" role="button">
+    <span aria-hidden="true">
+     Bulk
+    </span>
+    <span class="one-u-sr-only">
+     Back to input for single domain name
+    </span>
+    <span aria-hidden="true" class="checker-form__bulk-link-icon">
+     <svg class="svg-pictogram svg-pictogram--close-correct" viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M97.2 83.963L63.237 50 97.2 16.037c3.667-3.667 3.667-9.57 0-13.237s-9.57-3.667-13.237 0L50 36.763 16.037 2.8C12.37-.867 6.467-.867 2.8 2.8s-3.667 9.57 0 13.237L36.763 50 2.8 83.963c-3.667 3.667-3.667 9.57 0 13.237s9.57 3.667 13.237 0L50 63.237 83.963 97.2c3.667 3.667 9.57 3.667 13.237 0 3.64-3.667 3.64-9.596 0-13.237z">
+      </path>
+     </svg>
+    </span>
+   </a>
+   <button class="one-btn one-btn--order checker-form__submit checker-form__submit--bulk js-bulk-submit-btn" type="submit">
+    <span class="checker-form__submit-label-xs">
+     <svg class="svg-pictogram svg-pictogram--search" viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path d="M68.785 42.486q0-10.865-7.718-18.586t-18.59-7.72-18.58 7.72-7.726 18.586T23.9 61.072t18.58 7.718 18.59-7.72 7.72-18.59l-.003.006zm30.073 48.85q0 3.057-2.237 5.284t-5.277 2.24q-3.17 0-5.284-2.237l-20.14-20.08q-10.51 7.282-23.43 7.282-8.394 0-16.056-3.256T13.22 71.755 4.4 58.543t-3.255-16.06 3.255-16.06 8.813-13.214 13.21-8.814T42.48 1.14t16.065 3.256 13.213 8.813T80.57 26.42t3.256 16.06q0 12.924-7.28 23.43l20.138 20.145q2.17 2.17 2.17 5.285l.004-.007z">
+      </path>
+     </svg>
+    </span>
+    <span aria-hidden="true" class="checker-form__submit-label">
+     Check
+    </span>
+    <span class="one-u-sr-only">
+     Check
+    </span>
+   </button>
+  </div>
+ </div>
+ <div class="instant-results hidden js-instant-results">
+  <div class="instant-results__dropdown">
+   <ul class="instant-results__list js-instant-results__list">
+   </ul>
+   <div class="instant-results__loader js-instant-results__loader">
+    <img alt="" class="instant-results__loader-img js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+    Checking...
+   </div>
+   <div class="instant-results__none js-instant-results__none">
+    No popular extensions are available.
+   </div>
+   <div class="instant-results__promotion-limits js-promotion-limits hidden">
+    <p class="domain-promotions-explanation instant-results__promotion-limits-p">
+     * Promotion rate applies for the first year.
+    </p>
+   </div>
+   <a class="instant-results__all-link js-all-link gtm-ga-engagement" data-gtm-ga-engagement-label="domain-check-block-v3 check-all" href="/order-domain/check/">
+    Check all (Enter)
+   </a>
+  </div>
+ </div>
+ <div class="hidden">
+  <ul class="check-results">
+   <li class="check-result check-result--instant s-idle check-result--template">
+    <div class="responsive-domain responsive-domain--check-result">
+     <span class="responsive-domain__name">
+      %%domain%%
+     </span>
+     <span class="responsive-domain__lrm-mark">
+      ‎
+     </span>
+     <span class="responsive-domain__tld">
+      %%tld%%
+     </span>
+    </div>
+    %%whoisHtml%%
+    <div class="check-result__meta-wrapper">
+     %%priceHtml%%
+                %%actionHtml%%
+    </div>
+   </li>
+   <li class="check-result check-result-bundle check-result--instant s-idle check-result-bundle--template">
+    <div class="responsive-domain responsive-domain--check-result">
+     <span class="responsive-domain__name">
+      %%domain%%
+     </span>
+     <span class="responsive-domain__lrm-mark">
+      ‎
+     </span>
+     <span class="responsive-domain__tld">
+      %%tlds%%
+     </span>
+    </div>
+    <div class="check-result__meta-wrapper">
+     %%priceHtml%%
+                %%actionHtml%%
+    </div>
+   </li>
+   <li class="check-result-detail check-result-detail--template">
+    %%content%%
+   </li>
+  </ul>
+  <span class="check-result__price check-result__price--%%priceModifier%% check-result__price--template">
+   <span class="check-result__price-container">
+    <span class="one-u-font-bold">
+     %%priceDataFormatted.firstPeriodCosts%%
+     <sup class="check-result__promotion-star">
+      *
+     </sup>
+    </span>
+   </span>
+  </span>
+  <span class="check-result__price check-result__price--%%priceModifier%% check-result-bundle__price--template">
+   <span class="check-result__price-container">
+    <span class="one-u-font-bold">
+     %%priceDataFormatted.firstPeriodCosts%%
+     <sup class="check-result__promotion-star">
+      *
+     </sup>
+    </span>
+   </span>
+  </span>
+  <span class="check-result__price check-result__price-empty--template">
+  </span>
+  <div class="check-result__action check-result__action--choose check-result__action--choose--template js-result-action">
+   <button class="one-btn one-btn--success check-result__order-btn check-result__order-btn--chosen js-action-btn" tabindex="-1">
+    <svg class="svg-pictogram svg-pictogram--mark" viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M98.185 29.46L40.408 87.447c-2.266 2.308-5.81 2.308-8.076 0L1.815 56.836a5.724 5.724 0 0 1 0-8.142l7.79-7.82c2.297-2.277 5.84-2.277 8.107 0L36.386 59.59 82.288 13.53c2.266-2.276 5.842-2.276 8.076 0l7.82 7.82c2.267 2.277 2.267 5.835 0 8.11z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Selected
+    </span>
+   </button>
+   <div class="check-result__order-btn-loader-wrapper">
+    <img alt="" class="check-result__order-btn-loader js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   </div>
+   <button class="one-btn one-btn--order check-result__order-btn check-result__order-btn--cart-add js-action-btn" tabindex="0">
+    <svg class="svg-pictogram svg-pictogram--cart-add" viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M44.77 41.54a3.23 3.23 0 0 0 0 4.57L57 58.38c.04.03.1 0 .13.04a3.1 3.1 0 0 0 2.24.98h.03c.1 0 .18-.05.27-.06a3.07 3.07 0 0 0 1.67-.68c.13-.1.3-.06.43-.18l12.3-12.3a3.25 3.25 0 1 0-4.6-4.6l-6.97 7v-29.8a3.12 3.12 0 0 0-6.25 0v29.7l-6.9-6.9a3.23 3.23 0 0 0-4.58 0zm-1.02 42.84a6.25 6.25 0 1 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm31.25 0a6.25 6.25 0 0 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm25-53.13c0-.47-.12-.9-.3-1.3-.1-.25-.25-.4-.4-.6-.33-.4-.73-.78-1.23-1-.1-.02-.12-.13-.22-.16-.32-.1-.63-.1-.94-.08H68.78v6.25h24.3L82 71.87H40.63c-.2 0-.4.08-.58.1l-8.77-37.6H50v-6.24H29.82L24.87 6.88c.05-.2.13-.4.13-.63 0-1.55-1.15-2.8-2.63-3.03-.16-.04-.3-.08-.47-.1H3.13a3.12 3.12 0 0 0 0 6.25h16.23l15.5 66.48c.4 1.66 2.04 2.65 3.62 2.2.24-.07.33-.3.54-.43.48.3 1 .5 1.6.5H84.4c.16 0 .3-.05.46-.1 1.5-.23 2.64-1.47 2.64-3.02 0-.16-.06-.3-.1-.45L99.96 32c.03-.1-.05-.2-.04-.3.03-.16.1-.3.1-.45z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Choose
+    </span>
+   </button>
+  </div>
+  <div class="check-result__action check-result__action--choose check-result-bundle__action--choose--template js-result-action">
+   <button class="one-btn one-btn--success check-result__order-btn check-result__order-btn--chosen js-action-btn" tabindex="-1">
+    <svg class="svg-pictogram svg-pictogram--mark" viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M98.185 29.46L40.408 87.447c-2.266 2.308-5.81 2.308-8.076 0L1.815 56.836a5.724 5.724 0 0 1 0-8.142l7.79-7.82c2.297-2.277 5.84-2.277 8.107 0L36.386 59.59 82.288 13.53c2.266-2.276 5.842-2.276 8.076 0l7.82 7.82c2.267 2.277 2.267 5.835 0 8.11z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Selected
+    </span>
+   </button>
+   <div class="check-result__order-btn-loader-wrapper">
+    <img alt="" class="check-result__order-btn-loader js-image-load" data-src="/img/loading-icon-transparant.gif" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+   </div>
+   <button class="one-btn one-btn--order check-result__order-btn check-result__order-btn--cart-add js-action-btn" tabindex="0">
+    <svg class="svg-pictogram svg-pictogram--cart-add" viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+     <path d="M44.77 41.54a3.23 3.23 0 0 0 0 4.57L57 58.38c.04.03.1 0 .13.04a3.1 3.1 0 0 0 2.24.98h.03c.1 0 .18-.05.27-.06a3.07 3.07 0 0 0 1.67-.68c.13-.1.3-.06.43-.18l12.3-12.3a3.25 3.25 0 1 0-4.6-4.6l-6.97 7v-29.8a3.12 3.12 0 0 0-6.25 0v29.7l-6.9-6.9a3.23 3.23 0 0 0-4.58 0zm-1.02 42.84a6.25 6.25 0 1 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm31.25 0a6.25 6.25 0 0 0 0 12.5 6.25 6.25 0 0 0 0-12.5zm25-53.13c0-.47-.12-.9-.3-1.3-.1-.25-.25-.4-.4-.6-.33-.4-.73-.78-1.23-1-.1-.02-.12-.13-.22-.16-.32-.1-.63-.1-.94-.08H68.78v6.25h24.3L82 71.87H40.63c-.2 0-.4.08-.58.1l-8.77-37.6H50v-6.24H29.82L24.87 6.88c.05-.2.13-.4.13-.63 0-1.55-1.15-2.8-2.63-3.03-.16-.04-.3-.08-.47-.1H3.13a3.12 3.12 0 0 0 0 6.25h16.23l15.5 66.48c.4 1.66 2.04 2.65 3.62 2.2.24-.07.33-.3.54-.43.48.3 1 .5 1.6.5H84.4c.16 0 .3-.05.46-.1 1.5-.23 2.64-1.47 2.64-3.02 0-.16-.06-.3-.1-.45L99.96 32c.03-.1-.05-.2-.04-.3.03-.16.1-.3.1-.45z">
+     </path>
+    </svg>
+    <span class="check-result__order-btn-label">
+     Choose
+    </span>
+   </button>
+  </div>
+ </div>
+</form>
+
+
+(i) http://transip.eu:
+
+<form action="/order-domain/services/update-domain-selection/" class="hidden js-update-selection-form" method="post">
+ <input name="action" type="hidden" value="post"/>
+ <input class="js-update-selection-form__domain" name="domain" type="hidden" value=""/>
+ <input class="js-update-selection-form__domain-action" name="domainAction" type="hidden" value=""/>
+ <input class="js-update-selection-form__search" name="search" type="hidden" value=""/>
+ <input name="service" type="hidden" value=""/>
+ <input name="returnData" type="hidden" value="redirect"/>
+ <input name="redirect" type="hidden" value="/cart/services/add-from-sub-cart/domain/"/>
+ <input name="_csrf_token" type="hidden" value="cb1a8df1297956715355b160b11e5a4b"/>
+</form>
+
+(i) http://transip.eu:
+
+<form action="/services/cookie-consent/" class="js-generic-module" data-components="one-form-handler" method="POST">
+ <input name="tracking" type="hidden" value="true"/>
+ <input name="marketing" type="hidden" value="true"/>
+ <button class="one-btn one-btn--round one-btn--lg one-btn--primary one-btn--min-width" type="submit">
+  Accept all cookies
+ </button>
+</form>
+
+

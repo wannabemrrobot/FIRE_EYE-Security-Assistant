@@ -1,0 +1,3 @@
+[+] http://google.com -> Presence of Referer Header based Request Validation.
+[+] http://google.com -> Presence of Origin Header based request Validation.
+

@@ -1,0 +1,6 @@
+(i) http://google.com/history/optout?hl=en-IN&fg=1 -> No standard form "name".
+(i) //google.com/search/howsearchworks/?fg=1 -> Invalid URL '//google.com/search/howsearchworks/?fg=1': No schema supplied. Perhaps you meant http:////google.com/search/howsearchworks/?fg=1?
+(i) http://google.com/accounts -> No standard "action" attribute.
+(i) http://google.com/accounts -> No standard form "name".
+(i) KeyBoard Interrupt -> Aborted
+
