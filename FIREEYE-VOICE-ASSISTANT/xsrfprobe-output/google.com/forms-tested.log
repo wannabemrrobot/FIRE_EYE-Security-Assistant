@@ -1,0 +1,135 @@
+(i) http://google.com/history/optout?hl=en-IN&fg=1:
+
+<form action="/history/set-optout" method="POST">
+ <input name="recording_enabled" type="hidden" value="0"/>
+ <input name="sig" type="hidden" value="AODP23YAAAAAXmjz0aaODBvfPpl5zH9UtBn12kylfmSX"/>
+ <input name="redirect" type="hidden" value="/history/optout?hl=en-IN&amp;fg=1"/>
+ <button aria-label="  Turn off " class="history-switch-holder" title="  Turn off ">
+  <div class="history-switch history-switch-on">
+   <div class="history-switch-bar">
+   </div>
+   <div class="history-switch-nob">
+   </div>
+  </div>
+ </button>
+</form>
+
+
+(i) http://google.com/history/optout?utm_source=search-privacy-advisor:
+
+<form action="/history/set-optout" method="POST">
+ <input name="recording_enabled" type="hidden" value="0"/>
+ <input name="sig" type="hidden" value="AODP23YAAAAAXmjz9sj0PTWNZfmMe4ql9s4FEKfPJKMX"/>
+ <input name="redirect" type="hidden" value="/history/optout?utm_source=search-privacy-advisor"/>
+ <button aria-label="  Turn off " class="history-switch-holder" title="  Turn off ">
+  <div class="history-switch history-switch-on">
+   <div class="history-switch-bar">
+   </div>
+   <div class="history-switch-nob">
+   </div>
+  </div>
+ </button>
+</form>
+
+
+(i) http://google.com/history/optout?hl=en-IN:
+
+<form action="/history/set-optout" method="POST">
+ <input name="recording_enabled" type="hidden" value="0"/>
+ <input name="sig" type="hidden" value="AODP23YAAAAAXmj0CcadMJG3qi7a1yydETN8RH7UaXtx"/>
+ <input name="redirect" type="hidden" value="/history/optout?hl=en-IN"/>
+ <button aria-label="  Turn off " class="history-switch-holder" title="  Turn off ">
+  <div class="history-switch history-switch-on">
+   <div class="history-switch-bar">
+   </div>
+   <div class="history-switch-nob">
+   </div>
+  </div>
+ </button>
+</form>
+
+
+(i) http://google.com/accounts:
+
+<form jsaction="submit:JM9m2e;" method="post" novalidate="">
+ <span jsslot="">
+  <section class="aTzEhb" jscontroller="uwHxEe" jsshadow="">
+   <header aria-hidden="true" class="IdEPtc" jsname="tJHJj">
+   </header>
+   <div class="CxRgyd" jsname="MZArnb">
+    <div jsslot="">
+     <div class="d2CFce cDSmF" data-allow-at-sign="true" jsaction="keydown:C9BaXe;O22p3e:Op2ZO;AHmuwe:Jt1EX;rcuQ6b:rcuQ6b;YqO5N:Lg5SV;EJh3N:rcuQ6b;sPvj8e:di0fJ;" jscontroller="mOzJ1b" jsname="dWPKW" role="presentation">
+      <div class="rFrNMe N3Hzgf jjwyfe vHVGub zKHdkd sdJrJc Tyc9J" jsaction="clickonly:KjsqPd; focus:Jt1EX; blur:fpfTEe; input:Lg5SV" jscontroller="pxq3x" jsname="Vsb5Ub" jsshadow="">
+       <div class="aCsJod oJeWuf">
+        <div class="aXBtI Wic03c">
+         <div class="Xb9hP">
+          <input aria-label="Email or phone" autocapitalize="none" autocomplete="username" class="whsOnd zHQkBf" data-initial-dir="ltr" data-initial-value="" dir="ltr" id="identifierId" jsname="YPqjbf" name="identifier" spellcheck="false" tabindex="0" type="email" value=""/>
+          <div aria-hidden="true" class="AxOyFc snByac" jsname="YRMmle">
+           Email or phone
+          </div>
+         </div>
+         <div class="i9lrp mIZh1c">
+         </div>
+         <div class="OabDMe cXrdqd" jsname="XmnwAc">
+         </div>
+        </div>
+       </div>
+       <div class="LXRPh">
+        <div class="ovnfwe Is7Fhb" jsname="ty6ygf">
+        </div>
+        <div aria-atomic="true" aria-live="assertive" class="dEOOab RxsGPe" jsname="B34EJ">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div aria-live="assertive" class="PrDSKc" jsname="OZNMeb">
+     </div>
+     <div class="PrDSKc">
+      <button jsname="Cuz2Ue">
+       Forgot email?
+      </button>
+     </div>
+     <input aria-hidden="true" class="VwCw" jsname="RHeR4d" name="hiddenPassword" spellcheck="false" tabindex="-1" type="password"/>
+     <div class="T8zd8e R43Xif" jsaction="click:IMdg8d(A1U4Sb);rcuQ6b:jqIVcd" jscontroller="T3edRd" jsname="Si5T8b">
+      <img class="TrZEUc" id="captchaimg" jsname="O9Milc"/>
+      <button aria-label="Listen and type the numbers that you hear" class="gIn9Gc TrZEUc" id="playCaptchaButton" jsname="A1U4Sb" tabindex="0">
+       <svg aria-hidden="true" class="stUf5b" fill="currentColor" focusable="false" height="18px" viewbox="0 0 24 24" width="18px" xmlns="https://www.w3.org/2000/svg">
+        <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.8-1-3.3-2.5-4v8c1.5-.7 2.5-2.2 2.5-4zM14 3.2v2.1c2.9.9 5 3.5 5 6.7s-2.1 5.9-5 6.7v2.1c4-.9 7-4.5 7-8.8s-3-7.9-7-8.8z">
+        </path>
+       </svg>
+      </button>
+      <audio id="captchaAudio" jsname="CakGX" type="audio/wav">
+      </audio>
+      <div class="d2CFce cDSmF" jsaction="keydown:C9BaXe;O22p3e:Op2ZO;AHmuwe:Jt1EX;rcuQ6b:rcuQ6b;YqO5N:Lg5SV;EJh3N:rcuQ6b;" jscontroller="b21kgd" jsname="CQRbLd" role="presentation">
+       <div class="rFrNMe N3Hzgf jjwyfe zKHdkd sdJrJc Tyc9J" jsaction="clickonly:KjsqPd; focus:Jt1EX; blur:fpfTEe; input:Lg5SV" jscontroller="pxq3x" jsname="Vsb5Ub" jsshadow="">
+        <div class="aCsJod oJeWuf">
+         <div class="aXBtI Wic03c">
+          <div class="Xb9hP">
+           <input aria-label="Type the text you hear or see" autocomplete="off" class="whsOnd zHQkBf" data-initial-dir="ltr" data-initial-value="" dir="ltr" id="ca" jsname="YPqjbf" name="ca" spellcheck="false" tabindex="0" type="text"/>
+           <div aria-hidden="true" class="AxOyFc snByac" jsname="YRMmle">
+            Type the text you hear or see
+           </div>
+          </div>
+          <div class="i9lrp mIZh1c">
+          </div>
+          <div class="OabDMe cXrdqd" jsname="XmnwAc">
+          </div>
+         </div>
+        </div>
+        <div class="LXRPh">
+         <div class="ovnfwe Is7Fhb" jsname="ty6ygf">
+         </div>
+         <div aria-atomic="true" aria-live="assertive" class="dEOOab RxsGPe" jsname="B34EJ">
+         </div>
+        </div>
+       </div>
+      </div>
+      <input id="ct" jsname="SBlSod" name="ct" type="hidden"/>
+     </div>
+    </div>
+   </div>
+  </section>
+ </span>
+</form>
+
+

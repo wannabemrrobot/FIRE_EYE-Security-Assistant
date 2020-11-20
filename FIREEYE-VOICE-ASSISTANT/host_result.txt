@@ -1,0 +1,5 @@
+PING veltechmultitech.org (13.126.36.207) 56(84) bytes of data.
+
+--- veltechmultitech.org ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3053ms
+

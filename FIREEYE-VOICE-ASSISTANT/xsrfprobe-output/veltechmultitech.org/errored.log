@@ -1,0 +1,2 @@
+(i) http://veltechmultitech.org https://www.veltechmultitech.org/alumni/ -> HTTPConnectionPool(host='veltechmultitech.org%20https', port=80): Max retries exceeded with url: //www.veltechmultitech.org/alumni/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f662f10c5b0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
